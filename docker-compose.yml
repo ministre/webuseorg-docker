@@ -29,3 +29,13 @@ services:
     depends_on:
       - db
     restart: unless-stopped
+
+  phpmyadmin:
+    container_name: mushroom-basket-phpmyadmin
+    image: phpmyadmin/phpmyadmin:5.2
+    environment:
+      PMA_HOST: db
+      PMA_PORT: 3306
+    ports:
+      - "3000:80"
+    restart: unless-stopped
