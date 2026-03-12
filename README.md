@@ -12,7 +12,13 @@
 - Собираем и запускаем контейнеры
 
 ```bash
-docker compose up -d --build
+docker compose up -d
+```
+
+или
+
+```bash
+docker compose -f docker-compose.build.yml up -d --build
 ```
 
 - Запускаем процесс установки по адресу http://localhost:8080/install

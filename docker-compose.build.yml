@@ -16,8 +16,8 @@ services:
     restart: unless-stopped
 
   web:
+    build: .
     container_name: webuseorg
-    image: ministre/webuseorg:1.05
     environment:
       MYSQL_DATABASE: ${MYSQL_DATABASE:-webuse}
       MYSQL_USER: ${MYSQL_USER:-webuse}
