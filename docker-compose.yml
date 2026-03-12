@@ -31,7 +31,7 @@ services:
     restart: unless-stopped
 
   phpmyadmin:
-    container_name: mushroom-basket-phpmyadmin
+    container_name: webuseorg-phpmyadmin
     image: phpmyadmin/phpmyadmin:5.2
     environment:
       PMA_HOST: db
