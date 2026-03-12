@@ -9,19 +9,26 @@
 ## Установка
 
 - Прописываем переменные окружения в файле .env
-- Собираем и запускаем контейнеры
+
+```env
+MYSQL_DATABASE=webuse
+MYSQL_USER=webuse
+MYSQL_PASSWORD=your-secret-password
+```
+
+- Загружаем и запускаем контейнеры:
 
 ```bash
 docker compose up -d
 ```
 
-или
+или собираем:
 
 ```bash
 docker compose -f docker-compose.build.yml up -d --build
 ```
 
-- Запускаем процесс установки по адресу http://localhost:8080/install
+- Запускаем процесс установки по адресу http://your-host:8080/install
 
 ---
 
