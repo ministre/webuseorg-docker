@@ -1,0 +1,29 @@
+name: webuseorg-docker
+
+services:
+  db:
+    image: mysql:5.6
+    container_name: webuseorg-db
+    environment:
+      MYSQL_DATABASE: ${MYSQL_DATABASE:-webuse}
+      MYSQL_USER: ${MYSQL_USER:-root}
+      MYSQL_PASSWORD: ${MYSQL_PASSWORD:-webuse}
+      MYSQL_ROOT_PASSWORD: ${MYSQL_PASSWORD:-webuse}
+    volumes:
+      - ./data/mysql:/var/lib/mysql
+    restart: unless-stopped
+
+  web:
+    build: .
+    container_name: webuseorg
+    environment:
+      MYSQL_DATABASE: ${MYSQL_DATABASE:-webuse}
+      MYSQL_USER: ${MYSQL_USER:-root}
+      MYSQL_PASSWORD: ${MYSQL_PASSWORD:-webuse}
+    ports:
+      - "8080:80"
+    volumes:
+      - ./src:/var/www/html
+    depends_on:
+      - db
+    restart: unless-stopped

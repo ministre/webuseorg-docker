@@ -1,0 +1,3 @@
+<?
+$smarty->assign("ArrayOrg",GetArrayOrg());
+?>

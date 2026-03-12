@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<tables>
+  <table name="group_param" comment="Параметры группы">
+   </table>    
+  <table name="group_nome" comment="Группы номенклатуры">
+  <reqtable name="nome"  comment="Номенклатура">
+  <fromkey>id</fromkey> 
+  <tokey>groupid</tokey> 
+  </reqtable>
+  <reqtable name="group_param"  comment="Параметры группы">
+  <fromkey>id</fromkey> 
+  <tokey>groupid</tokey> 
+  </reqtable>  
+   </table>          
+<table name="knt"  comment="Контрагенты">
+    <reqtable name="contract"  comment="Договора">
+          <fromkey>id</fromkey> 
+          <tokey>kntid</tokey> 
+      </reqtable>
+</table>
+<table name="contract"  comment="Договора контрагентов">
+</table>    
+<table name="equipment"  comment="Реестр имущества">
+</table>
+  <table name="nome" comment="Справочник номенклатуры">
+  <reqtable name="equipment"  comment="Реестр имущества">
+  <fromkey>id</fromkey> 
+  <tokey>nomeid</tokey> 
+  </reqtable>
+   </table>      
+      <table name="users" comment="Пользователи">
+     <reqtable name="tasks" comment="Задачи">
+	<fromkey>id</fromkey> 
+	<tokey>userid</tokey>      
+     </reqtable>
+     <reqtable name="places_users"  comment="Размещение пользователей">
+	<fromkey>id</fromkey> 
+	<tokey>userid</tokey>      
+     </reqtable>     
+     <reqtable name="equipment"  comment="Реестр имущества">
+	<fromkey>id</fromkey> 
+	<tokey>usersid</tokey>      
+     </reqtable>          
+       <clear>
+          <tbl_clear>users_profile</tbl_clear>
+          <key>usersid</key>
+      </clear>
+    </table>  
+    <table name="places" comment="Помещения">
+     <reqtable name="equipment"  comment="Реестр имущества">
+	<fromkey>id</fromkey> 
+	<tokey>placesid</tokey>      
+     </reqtable>
+     <reqtable name="places_users"  comment="Размещение пользователей">
+	<fromkey>id</fromkey> 
+	<tokey>placesid</tokey>      
+     </reqtable>     
+    </table>  
+  <table name="org" comment="Организации">
+  <reqtable name="users"  comment="Пользователи">
+  <fromkey>id</fromkey> 
+  <tokey>orgid</tokey> 
+  </reqtable>
+  <reqtable name="places"  comment="Помещения">
+  <fromkey>id</fromkey> 
+  <tokey>orgid</tokey> 
+  </reqtable>
+  <reqtable name="equipment" comment="Реестр имущества">
+  <fromkey>id</fromkey> 
+  <tokey>orgid</tokey> 
+  </reqtable>
+  </table>
+  </tables>

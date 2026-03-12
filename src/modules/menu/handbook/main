@@ -1,0 +1,9 @@
+	<li><a href=?content_page=libre_org>Организации</a></li>
+	<li><a href=?content_page=libre_knt>Контрагенты</a></li>
+	<li class="divider"></li>
+	<li><a href=?content_page=libre_place>Помещения</a></li>		
+	<li><a href=?content_page=useradmin>Пользователи</a></li>	
+	<li class="divider"></li>
+	<li><a href=?content_page=libre_vendor>Производители</a></li>
+	<li><a href=?content_page=libre_group>Группы</a></li>
+	<li><a href=?content_page=libre_nome>Номенклатура</a></li>

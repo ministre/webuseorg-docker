@@ -1,0 +1,1709 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<export>
+	<counterpart><name>ЭКМА-КОНФИ ООО</name><fullname>ООО "ЭКМА-КОНФИ"</fullname><code>000000509</code><inn>6662007753</inn><kpp>666201001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ЗИК ООО</name><fullname>ООО "ЗИК"</fullname><code>000000510</code><inn>7705628580</inn><kpp>770501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ЖелДорЭкспедиция ООО</name><fullname>ЖелДорЭкспедиция ООО</fullname><code>000000511</code><inn>7718725461</inn><kpp>771801001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Синев Александр Иванович</name><fullname>Синев Александр Иванович</fullname><code>000000512</code><inn>352500281988</inn><kpp></kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Атлас ООО</name><fullname>ООО "Атлас"</fullname><code>000000514</code><inn>4623006174</inn><kpp>462301001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>План-Б ООО</name><fullname>ООО "План-Б"</fullname><code>000000513</code><inn>6164256370</inn><kpp>616401001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Региональный орган по сертификации и тестированию ЗАО</name><fullname>Закрытое акционерное общество"Региональный орган по сертификации и тестированию</fullname><code>000000515</code><inn>7706278628</inn><kpp>770601001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Аспект ООО</name><fullname>ООО "Аспект"</fullname><code>000000517</code><inn>7604187210 </inn><kpp>760401001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Жуковская Илона Евгеньевна</name><fullname>Жуковская Илона Евгеньевна</fullname><code>000000516</code><inn>352520553661</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Зобнина Екатерина Александровна</name><fullname>Зобнина Екатерина Александровна</fullname><code>000000518</code><inn>352510855511</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Росляков Евгений Вадимович</name><fullname>Росляков Евгений Вадимович</fullname><code>000000519</code><inn>352509679910</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Попова Татьяна Николаевна</name><fullname>Попова Татьяна Николаевна</fullname><code>000000520</code><inn>352524175386</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Ордин Николай Анатольевич</name><fullname>Ордин Николай Анатольевич</fullname><code>000000521</code><inn>352518408219</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>ПРП СТС ООО</name><fullname>ООО "ПРП "СТС"</fullname><code>000000522</code><inn>3507307370</inn><kpp>350701001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>АНО ДПО «Учебный центр Микроинформ»</name><fullname>АНО ДПО "Учебный центр Микроинформ"</fullname><code>000000523</code><inn>7705395985</inn><kpp>770501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Холмякова Раиса Николаевна</name><fullname>Холмякова Раиса Николаевна</fullname><code>000000525</code><inn>352500956207</inn><kpp></kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Недробова Анастасия Михайловна</name><fullname>Недробова Анастасия Михайловна</fullname><code>000000524</code><inn>352506221304</inn><kpp></kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Интермелт ЗАО</name><fullname>ЗАО "Интермелт"</fullname><code>000000526</code><inn>7811354236</inn><kpp>781101001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Вологодская торгово-промышленная палата</name><fullname>Вологодская торгово-промышленная палата</fullname><code>000000527</code><inn>3525021863</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Гостиница "Восход"</name><fullname>Открытое акционерное общество "Гостиница "Восход"</fullname><code>000000528</code><inn>7715599699</inn><kpp>771501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Азиана ООО</name><fullname>ООО "Азиана"</fullname><code>000000529</code><inn>7708749181</inn><kpp>770801001</kpp><buyer>Да</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>СеверПромТранс ООО</name><fullname>СеверПромТранс ООО</fullname><code>000000530</code><inn>3528150610</inn><kpp>352801001</kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Ти энд Пи Букс Паблишинг</name><fullname>ООО "Ти энд Пи Букс Паблишинг"</fullname><code>000000531</code><inn>7714611424</inn><kpp>500901001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Калмыков Евгений Николаевич ИП</name><fullname> ИП Калмыков Евгений Николаевич </fullname><code>000000534</code><inn>350703348232</inn><kpp></kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Гранд Аналит ООО</name><fullname>ООО "ГрандАналит"</fullname><code>000000535</code><inn>1215130280</inn><kpp>121501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Беляев Тимур Анатольевич</name><fullname>Беляев Тимур Анатольевич</fullname><code>000000532</code><inn>352505619910</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Кондакова Надежда Леонидовна</name><fullname>Кондакова Надежда Леонидовна</fullname><code>000000533</code><inn>352501496048</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>ДП  "Имидж Холдинг"  АК "Имидж Холдинг АпС"</name><fullname>ДП  "Имидж Холдинг"  АК "Имидж Холдинг АпС"</fullname><code>000000536</code><inn>320964308242</inn><kpp></kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Легион РК ООО</name><fullname>ООО "Русская компания "Легион"</fullname><code>000000542</code><inn>3528183284</inn><kpp>352801001</kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Борисова Ирина Борисовна</name><fullname>Борисова Ирина Борисовна</fullname><code>000000538</code><inn>352507267566</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Позднякова Марина Владимировна</name><fullname>Позднякова Марина Владимировна</fullname><code>000000539</code><inn>352507215180</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Ноженко Татьяна Валерьевна</name><fullname>Ноженко Татьяна Валерьевна</fullname><code>000000541</code><inn>290500222244</inn><kpp></kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Престиж ООО</name><fullname>Общество с ограниченной ответственностью "Престиж"</fullname><code>000000540</code><inn>7806372261</inn><kpp>780601001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Агапов С.М ИП</name><fullname>ИП Агапов Сергей Михайлович</fullname><code>000000543</code><inn>352515027800</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ИнтелТорг ООО</name><fullname>ООО "ИнтелТорг"</fullname><code>000000544</code><inn>3525226170</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ИНСИСТ ООО</name><fullname>ООО "ИНСИСТ"</fullname><code>000000545</code><inn>5259009634</inn><kpp>525901001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Березина Наталья Алексеевна</name><fullname>Березина Наталья Алексеевна</fullname><code>000000546</code><inn>352521798054</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Вторресурсы ЗАО</name><fullname>ЗАО "Вторресурсы"</fullname><code>000000549</code><inn>3528177280</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Баталова Лариса Алексеевна</name><fullname>Баталова Лариса Алексеевна</fullname><code>000000547</code><inn>352502262885</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Богомолов Артем Алексеевич</name><fullname>Богомолов Артем Алексеевич</fullname><code>000000548</code><inn>352522483508</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Иринархов Александр Александрович</name><fullname>Иринархов Александр Александрович</fullname><code>000000550</code><inn>352507819016</inn><kpp></kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Вологодский таможенный терминал ООО</name><fullname>Общество с ограниченной ответственностью "Вологодский таможенный терминал"</fullname><code>000000551</code><inn>3525176786</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Компания СТП ООО</name><fullname>Общество с ограниченной ответственностью "Компания СТП"</fullname><code>000000552</code><inn>7722743632</inn><kpp>772201001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Термо Инжиниринг ООО</name><fullname>ООО "Термо Инжиниринг"</fullname><code>000000461</code><inn>3525252395</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Левашова Татьяна Николаевна Предприниматель</name><fullname>Предприниматель Левашова Татьяна Николаевна</fullname><code>000000463</code><inn>352503164143</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Балтийская инжиниринговая компания  ЗАО</name><fullname>Закрытое акционерное общество "Балтийская инжиниринговая компания"</fullname><code>000000001</code><inn>7810255553</inn><kpp>781001001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>НЭКСО ООО</name><fullname>"Независимая экспертиза собственности" ООО</fullname><code>000000002</code><inn>7810206482</inn><kpp>781001001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Лабораторное оборудование ООО</name><fullname>Общество с ограниченной ответственностью  "Лабораторное оборудование"</fullname><code>000000393</code><inn>7720582411</inn><kpp>771701001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>БКВ ЗАО</name><fullname>ЗАО "БКВ"</fullname><code>000000394</code><inn>7710379724</inn><kpp>770401001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Навигатор ООО</name><fullname>ООО "Навигатор"</fullname><code>000000395</code><inn>5504206088</inn><kpp>550701001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Системы опломбирования и контроля ООО</name><fullname>ООО "Системы опломбирования и контроля"</fullname><code>000000396</code><inn>3525195806</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Стратонников Е.С. ИП</name><fullname>Индивидуальный предприниматель Стратонников Евгений Сергеевич</fullname><code>000000398</code><inn>352500610689</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Махова Наталия Алексеевна</name><fullname>Махова Наталия Алексеевна</fullname><code>000000399</code><inn>352507230252</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Фитопродукт ру ООО</name><fullname>Общество с ограниченной ответственностью "Фитопродукт.ру"</fullname><code>000000400</code><inn>7720597760</inn><kpp>772001001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ЮниКредит Банк</name><fullname>ЮниКредит Банк</fullname><code>000000401</code><inn>7710030411</inn><kpp>771001001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Бис Пак ООО</name><fullname>ООО "Бис Пак"</fullname><code>000000402</code><inn>3525101660</inn><kpp>350701001</kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Асвента плюс ООО</name><fullname>Общество с ограниченной ответственностью "Асвента Плюс"</fullname><code>000000403</code><inn>3525217062</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Вологда-Ижмаш-Сервис ЗАО </name><fullname>Закрытое Акционерное Общество "Вологда-Ижмаш-Сервис"</fullname><code>000000407</code><inn>3525090715</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Осовская Людмила Вячеславовна</name><fullname>Осовская Людмила Вячеславовна</fullname><code>000000404</code><inn>352518433960</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Зыкова Светлана Васильевна</name><fullname>Зыкова Светлана Васильевна</fullname><code>000000405</code><inn>352516574958</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Шашерина Лия Михайловна</name><fullname>Шашерина Лия Михайловна</fullname><code>000000406</code><inn>352507197809</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Богданова Лариса Александровна</name><fullname>Богданова Лариса Александровна</fullname><code>000000408</code><inn>352507688123</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Форвард -Комплект ПК ООО</name><fullname>Общество с ограниченной ответственностью Производственная компания "Форвард-Комплект" (ООО Пк "Форвард- Комплект"</fullname><code>000000412</code><inn>7728763071</inn><kpp>772801001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Горицкое ЖКХ</name><fullname>Общество с ограниченной ответственностью "Горицкое ЖКХ"</fullname><code>000000410</code><inn>3511005519</inn><kpp>351101001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Продтовары Плюс ООО</name><fullname>ООО "Продтовары Плюс"</fullname><code>000000411</code><inn>3525137191</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Кузнецова Галина Александровна</name><fullname>Кузнецова Галина Александровна</fullname><code>000000413</code><inn>352507264420</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Гостиница "ШАХТЕР"</name><fullname>ОАО "Гостиница "ШАХТЕР"</fullname><code>000000414</code><inn>7723565816</inn><kpp>772301001</kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Миронец Лилия Николаевна</name><fullname>Миронец Лилия Николаевна</fullname><code>000000415</code><inn>352535120220</inn><kpp>000001001</kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Универсал Контракт  Фирма ЗАО</name><fullname>Закрытое Акционерное Общество "Фирма "Универсал Контракт "</fullname><code>000000416</code><inn>7801000559</inn><kpp>781101001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Древ-Ресурс ООО</name><fullname>ООО "Древ-Ресурс"</fullname><code>000000417</code><inn>3525188566</inn><kpp>352501001</kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>АМК Транмп МаСт ООО</name><fullname>ООО "АМК "Трамп МаСТ"</fullname><code>000000418</code><inn>3525193887</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ФриКардс Вологда ООО</name><fullname>ООО "ФриКардс Вологда"</fullname><code>000000419</code><inn>3525167291</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Вологдазеленстрой МУП</name><fullname>МУП "Вологдазеленстрой"</fullname><code>000000263</code><inn>3525010653</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Росфинаудит ООО</name><fullname>ООО "РосФинАудит"</fullname><code>000000264</code><inn>7810257825</inn><kpp>781001001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Учет ООО</name><fullname>ООО Аудиторская фирма "Учет"</fullname><code>000000265</code><inn>3525070317</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Аляска-Полиграфоформление ООО</name><fullname> ООО "Аляска-Полиграфоформление "</fullname><code>000000266</code><inn>7801250140</inn><kpp>780101001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Серов Александр Николаевич</name><fullname>Серов Александр Николаевич</fullname><code>000000267</code><inn>352504155504</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Фактория-Трейд ООО</name><fullname>ООО "Фактория-Трейд" </fullname><code>000000268</code><inn>7802163884</inn><kpp>780201001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ТОКК ЗУИ ООО</name><fullname>Общество с ограниченной ответственностью "Завод упаковочных изделий ТОКК"  ООО "ЗУИ ТОКК"</fullname><code>000000269</code><inn>5040045543</inn><kpp>504001001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Попов Леонид Николаевич ИП</name><fullname>Индивидуальный предприниматель Попов Леонид Николаевич</fullname><code>000000270</code><inn>352502006507</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Вологда Экспресс Доставка ООО</name><fullname>ООО "Вологда Экспресс Доставка"</fullname><code>000000271</code><inn>3525227920</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Карекс-Центр ООО</name><fullname>ООО "Карекс-Центр"</fullname><code>000000272</code><inn>7804308550</inn><kpp>780401001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Седов И.М. ИП</name><fullname>ИП Седов Илья Михайлович</fullname><code>000000273</code><inn>760708406196</inn><kpp>760701001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Ардымспирт ООО</name><fullname>Общество с ограниченной ответственностью "Ардымский спиртзавод"(ООО "Ардымспирт")</fullname><code>000000274</code><inn>5837027261</inn><kpp>582901001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Антей-фарма ООО</name><fullname>ООО "Антей-Фарма"</fullname><code>000000275</code><inn>3525145837</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Акцент-М ООО</name><fullname>ООО "Акцент-М"</fullname><code>000000276</code><inn>3525078041</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Европак ЗАО</name><fullname>Закрытое акционерное общество "Европак"</fullname><code>000000277</code><inn>7708614762</inn><kpp>272301010</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Профессиональная логика ООО</name><fullname>Общество с ограниченной ответственностью "Профессиональная логика"</fullname><code>000000281</code><inn>3525158667</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Клеевые технологии и сервис ЗАО</name><fullname>ЗАО "Клеевые технологии и сервис"</fullname><code>000000278</code><inn>5030045706</inn><kpp>775101001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Экопром ООО</name><fullname>Общество с ограниченной ответственностью "Экопром"</fullname><code>000000279</code><inn>6908011110</inn><kpp>690801001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ЧСЗ-Липецк ООО</name><fullname>ООО "ЧСЗ-Липецк"</fullname><code>000000280</code><inn>4802010032</inn><kpp>480201001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Электрум ООО</name><fullname>ООО " ЭЛЕКТРУМ"</fullname><code>000000283</code><inn>7813337074</inn><kpp>781401001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Радуга ТД ООО</name><fullname>ООО ТД "Радуга" Московский банк Сбербанка России ОАО г.Москва</fullname><code>000000284</code><inn>7726667213</inn><kpp>772601001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Искона- II</name><fullname>ООО "Патентно-правовая фирма "Искона- II"</fullname><code>000000285</code><inn>7707084760</inn><kpp>770701001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Межрайонная ИФНС России № 11 по Вологодской обл</name><fullname>Управление федерального казначейста по Вологодской области (Межрайонная ИФНС России № 11 по Вологодской области г.Вологда)</fullname><code>000000287</code><inn>3525022440</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Альянс ООО</name><fullname>ООО "Альянс"</fullname><code>000000286</code><inn>3525261978</inn><kpp>352501001</kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>ТАУРАС-ПЛАСТ ООО</name><fullname>Общество с ограниченной ответственностью "ТАУРАС-ПЛАСТ"</fullname><code>000000290</code><inn>7814153055</inn><kpp>784201001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ГРОУТ Компания  ООО</name><fullname>Общество с ограниченной ответственностью "Компания ГРОУТ" (ООО "Компания ГРОУТ")</fullname><code>000000291</code><inn>7811465313</inn><kpp>781101001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Конотопов Алексей Игоревич ИП</name><fullname>ИП Конотопов Алексей Игоревич Московский банк ОАО Сбербанка России г.Москва </fullname><code>000000292</code><inn>772203767296</inn><kpp>772201001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Вологдаархпроект ООО</name><fullname>ООО "Вологдаархпроект"</fullname><code>000000293</code><inn>3525008460</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Волспецстрой ООО</name><fullname>Общество с ограниченной ответственностью "Волспецстрой, ООО "Волспецстрой"</fullname><code>000000294</code><inn>3507306633</inn><kpp>350701001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Фелицата Холдинг ООО</name><fullname> ООО "Фелицата Холдинг"</fullname><code>000000296</code><inn>7715235998</inn><kpp>771501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Роспотребнадзор </name><fullname>УФК по Вологодской области (Управление Роспотребнадзора по Вологодской области л.сч 04301787600)</fullname><code>000000297</code><inn>3525147418</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Украинская дистрибуционная компания ООО</name><fullname>ООО Украинская дистрибуционная компания </fullname><code>000000298</code><inn>373105426577</inn><kpp></kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Родионов Михаил Александрович ИП</name><fullname>Индивидуальный предприниматель Родионов Михаил Александрович</fullname><code>000000299</code><inn>524900355730</inn><kpp>524901001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Росалкогольрегулирования МРУ (марки)</name><fullname>УФК по г.Санкт-Петербургу (Отдел №14 , МРУ Росалкогольрегулирования по Северо-Западному федеральному округу. л/с 05721W00750)</fullname><code>000000300</code><inn>7840420941</inn><kpp>784101001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Бежецкий завод АСО ОАО</name><fullname>ОАО "Бежецкий завод "АСО"</fullname><code>000000301</code><inn>6906000113</inn><kpp>690650001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Ю БИ Си  Арматура ООО</name><fullname>ООО "Ю Би Си  Арматура"</fullname><code>000000302</code><inn>7733719800</inn><kpp>773301001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Удалённые</name><fullname></fullname><code>000000303</code><inn></inn><kpp></kpp><buyer></buyer><supplier></supplier>
+	</counterpart>
+	<counterpart><name>ВСО ООО</name><fullname>ООО "ВСО"</fullname><code>000000304</code><inn>3525233610</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Шалимов В.В.</name><fullname>Шалимов Владимир Владимирович</fullname><code>000000305</code><inn>000000000000</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Крылова Г.Ю.</name><fullname>Крылова Галина Юрьевна</fullname><code>000000306</code><inn>352517321420</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Рота ООО</name><fullname>Общество с ограниченной ответственностью "Рота"</fullname><code>000000307</code><inn>3525238658</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Технофильтр НПП ООО</name><fullname>ООО НПП "Технофильтр"</fullname><code>000000308</code><inn>3329006121</inn><kpp>332901001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Ростелеком ОАО</name><fullname>Вологодский филиал ОАО "Ростелеком"</fullname><code>000000309</code><inn>7707049388</inn><kpp>352543001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Межрайонная ИФНС России № 11 по Вологодской обл</name><fullname>УФК по Ленинградской области (Межрайонная ИФНС России № 11 по Вологодской области г.Вологда)</fullname><code>000000310</code><inn>3525022440</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Илюшин А.А.ИП</name><fullname>ИП Илюшин Алексей  Александрович</fullname><code>000000311</code><inn>352520633814</inn><kpp>352501001</kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Куликова С.В.</name><fullname>Индивидуальный предприниматель Куликова Светлана Васильевна</fullname><code>000000312</code><inn>691000198677</inn><kpp>691001001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Меркурий ООО</name><fullname>Общество с ограниченной ответственностью "Меркурий"</fullname><code>000000313</code><inn>3525235551</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Сазонов Н.В. ИП</name><fullname>Индивидуальный предприниматель Сазонов Николай Васильевич</fullname><code>000000314</code><inn>350900066903</inn><kpp></kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>РЖД (ФПК)</name><fullname>ОАО "ФПК" 01</fullname><code>000000315</code><inn>7708709686</inn><kpp>770801001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Салтаева Нелли Викторовна</name><fullname>Салтаева Нелли Викторовна</fullname><code>000000316</code><inn>352502754220</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Промтехинвест ООО</name><fullname>ООО "Промтехинвест"</fullname><code>000000317</code><inn>3525238954</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Третьяков Александр Дмитриевич</name><fullname>Третьяков Александр Дмитриевич</fullname><code>000000318</code><inn>352522481109</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>КБ "БНП Париба Восток" ООО</name><fullname>КБ "БНП Париба Восток" ОООКБ "БНП Париба Восток" ООО</fullname><code>000000007</code><inn>6452010742</inn><kpp>775001001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Контур, ООО</name><fullname>Контур, ООО</fullname><code>000000008</code><inn>7811139937</inn><kpp>781101001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>УФК по Лен.Обл.(Управление Федеральной Регистрационной Службы по СПб и ЛО)</name><fullname>УФК по Лен.Обл.(Управление Федеральной Регистрационной Службы по СПб и ЛО)</fullname><code>000000009</code><inn>7830000000</inn><kpp>783001001</kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Широков А.А.</name><fullname>Широков А.А.</fullname><code>000000010</code><inn>631800340003</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Техноград ООО</name><fullname>ООО "Техноград"</fullname><code>000000335</code><inn>7842335762</inn><kpp>352545002</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Экопром-Вологда ЗАО</name><fullname>ЗАО "Экопром-Вологда"</fullname><code>000000334</code><inn>3525174718</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Дивас ООО</name><fullname>ООО "Дивас"</fullname><code>000000336</code><inn>3525096107</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Скайнэкс ООО</name><fullname>ООО "СКАЙНЭКС"</fullname><code>000000337</code><inn>7709792239</inn><kpp>770901001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Пчела  ООО</name><fullname>ООО "Пчела"</fullname><code>000000338</code><inn>3525009312</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Дедык А.В ИП</name><fullname>Индивидуальный предприниматель Дедык Андрей Витальевич</fullname><code>000000339</code><inn>352516140823</inn><kpp></kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Инвентарь ООО</name><fullname>Общество с ограниченной ответственностью "ИНВЕНТАРЬ" (ООО "ИНВЕНТАРЬ")</fullname><code>000000340</code><inn>7721576040</inn><kpp>770901001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Вологодский центр сертификации ООО</name><fullname>ООО "Вологодский центр сертификации"</fullname><code>000000341</code><inn>3525118270</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Власов Андрей Сергеевич</name><fullname>Власов Андрей Сергеевич</fullname><code>000000342</code><inn>352503133000</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Вологдаэлектро ООО</name><fullname>ООО "Вологдаэлектро"</fullname><code>000000344</code><inn>3525261745</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Шилова Наталья Владимировна</name><fullname>Шилова Наталья Владимировна</fullname><code>000000343</code><inn>352530905400</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>АФК-Топогеодезия</name><fullname>АФК-Топогеодезия,ЗАО</fullname><code>000000039</code><inn>7806352441</inn><kpp>780601001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ЭЛЛИ  ЗАО</name><fullname>ЗАО "ЭЛЛИ"</fullname><code>000000251</code><inn>3525097277</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ЮНИСКАН/ГС РУС</name><fullname>Ассоциация автоматической идентификации "ЮНИСКАН/ ГС1 РУС" Московский банк Сбербанка России ОАО г.Москва</fullname><code>000000252</code><inn>7710026800</inn><kpp>770501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Вологодский ЦГМС ГУ</name><fullname>УФК по Вологодской области (ГУ "Вологодский ЦГМС")</fullname><code>000000253</code><inn>3525021180</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Аюдар Пресс Издательство ООО</name><fullname>ООО "Издательство "Аюдар Пресс"</fullname><code>000000254</code><inn>7709800264</inn><kpp>770901001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Электрика ООО</name><fullname>ООО "Электрика"</fullname><code>000000255</code><inn>3525128091</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Арзамасский приборостроительный завод</name><fullname>Открытое акционерное общество "Арзамасский приборостроительный завод имени П.И. Пландина"Арзамасское ОСБ № 369 г.Арзамас</fullname><code>000000256</code><inn>5243001742</inn><kpp>525350001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>НИЦ Безопасности ООО</name><fullname>ООО "НИЦ Безопасности"</fullname><code>000000258</code><inn>7814478871</inn><kpp>781401001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Яремчук Виталий Сергеевич</name><fullname>Яремчук Виталий Сергеевич</fullname><code>000000257</code><inn>000000000000</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Сервис Клининг ООО</name><fullname>Общество с ограниченной ответственностью "Сервис Клининг"</fullname><code>000000259</code><inn>3525253857</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Северный Конвой ООО</name><fullname>Общество с ограниченной ответственностью "Северный Конвой"</fullname><code>000000261</code><inn>3525217136</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Центр по выполнению работ и оказанию услуг природоохранного назначения ООО</name><fullname>ООО "Центр по выполнению работ и оказанию услуг природоохранного назначения "</fullname><code>000000262</code><inn>3525132764</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Акватон ООО</name><fullname>ООО "Акватон"</fullname><code>000000260</code><inn>3525118880</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Вологдагорводоканал МУП ЖКХ</name><fullname>Муниципальное унитарное предприятие жилищно-коммунального хозяйства "Вологдагорводоканал"</fullname><code>000000248</code><inn>3525023596</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Энергостройсервис ООО</name><fullname>Общество с ограниченной ответственностью "Энергостройсервис"(ООО Энергостройсервис")</fullname><code>000000249</code><inn>3527015865</inn><kpp>352701001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Гермес ООО</name><fullname>Общество с ограниченной ответственностью "Гермес"</fullname><code>000000250</code><inn>3664076115</inn><kpp>366401001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>REGIONALA INVESTICIJU BANKA SWIFT RIBRLV22 </name><fullname>REGIONALA INVESTICIJU BANKA SWIFT RIBRLV22 </fullname><code>000000048</code><inn>7744000302 </inn><kpp></kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Покупатели</name><fullname></fullname><code>000000049</code><inn></inn><kpp></kpp><buyer></buyer><supplier></supplier>
+	</counterpart>
+	<counterpart><name>Колесников Михаил Михайлович ИП</name><fullname>Индивидуальный предприниматель Колесников Михаил Михайлович </fullname><code>000000050</code><inn>771200360775</inn><kpp></kpp><buyer>Да</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Вологдаэлектро ЗАО</name><fullname>ЗАО "Вологдаэлектро"</fullname><code>000000051</code><inn>3525076291</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Строительно-монтажный трест ООО</name><fullname>Строительно-монтажный трест ООО</fullname><code>000000053</code><inn>3525183173</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Иванова Ирина Юрьевна</name><fullname>Иванова Ирина Юрьевна</fullname><code>000000054</code><inn>352516608438</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>УФК по Вологодской области (ГУ-Отделение Пенсионного фонда</name><fullname>УФК по Вологодской области (ГУ-Отделение Пенсионного фонда Российской Федерации по Вологодской области)</fullname><code>000000056</code><inn>3525009217</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>УФК по Вологодской области (Государственное учреждение-Вологодское региональное отделение Фонда соци</name><fullname>УФК по Вологодской области (Государственное учреждение-Вологодское региональное отделение Фонда социального страхования Российской Федерации)</fullname><code>000000057</code><inn>3525039187</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>УФК по Вологодской области (ГУ-Отделение Пенсионного фонда</name><fullname>Управление федерального казначейства МФ РФ по Вологодской области (Межрайонная ИФНС России № 11 по Вологодской области г. Вологда)</fullname><code>000000058</code><inn>3525009217</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Бороденко Инна Михайловна</name><fullname>Бороденко Инна Михайловна</fullname><code>000000059</code><inn>7707083893</inn><kpp>770701001</kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Чернякова Мария Даниловна</name><fullname>Чернякова Мария Даниловна</fullname><code>000000060</code><inn>352507189491</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Вологодское отделение № 8638 г. Вологда</name><fullname>Отделение № 8638 Сбербанка по г. Вологда</fullname><code>000000061</code><inn>7707083893</inn><kpp>770701001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>БАНК Москвы</name><fullname>Акционерный коммерческий банк "Банк Москвы" (Открытое акционерное общество)</fullname><code>000000062</code><inn>770200040600</inn><kpp>774401001</kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Чернякова Мария Даниловна</name><fullname>Чернякова Мария Даниловна</fullname><code>000000063</code><inn>352507189491</inn><kpp>000001001</kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Дмитриев Валерий Геннадьевич</name><fullname>Дмитриев Валерий Геннадьевич</fullname><code>000000064</code><inn>352520472067</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Хрусталь АНО ЦСИ</name><fullname>Хрусталь АНО ЦСИ</fullname><code>000000464</code><inn>3304006987</inn><kpp>330401001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>РПК-Триадос ООО</name><fullname>ООО "РПК-ТриАдос"</fullname><code>000000465</code><inn>5007077428</inn><kpp>500701001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Мебельная компания "Феникс" ООО</name><fullname>ООО "Мебельная компания "Феникс"</fullname><code>000000466</code><inn>3525234646</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Воздушные замки ООО</name><fullname>Воздушные замки ООО</fullname><code>000000467</code><inn>7718591722</inn><kpp>771801001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Паллет Трейд ТД ООО</name><fullname>Общество с ограниченной ответственностью "Торговый дом Паллет Трейд "Санкт-Петербург"</fullname><code>000000468</code><inn>7810544435</inn><kpp>780501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Тепличный Вологда ООО</name><fullname>ООО "Тепличный Вологда"</fullname><code>000000469</code><inn>3525217390</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Неспанов Сергей Федорович</name><fullname>Неспанов Сергей Федорович</fullname><code>000000470</code><inn>352518269935</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Лужский Берег Гостиница</name><fullname>Гостиница ООО "Лужский Берег"</fullname><code>000000473</code><inn>47070119643</inn><kpp>470701001</kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>СФера ТК ООО</name><fullname>Общество с ограниченной ответственностью "Торговая компания Сфера"</fullname><code>000000471</code><inn>7604209590</inn><kpp>760401001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Севзапрыбвод ФГБУ</name><fullname>ФГБУ "Севзапрыбвод"</fullname><code>000000472</code><inn>7825330429</inn><kpp>782501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Компания Лондон </name><fullname>Компания "London Brand Consulting Ltd."</fullname><code>000000475</code><inn></inn><kpp></kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Вологдатрансагентство ООО ТЭК</name><fullname>Вологдатрансагентство ООО ТЭК</fullname><code>000000474</code><inn>3525225994</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Роспродмашсервис ООО</name><fullname>ООО "РОСПРОДМАШСЕРВИС"</fullname><code>000000476</code><inn>7816438592</inn><kpp>781601001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Континент Строй Комплект ООО</name><fullname>Общество с ограниченной ответственностью "Континент Строй комплект" /ООО "КСК"</fullname><code>000000477</code><inn>3525224750</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Девятков Валерий Валентинович</name><fullname>Девятков Валерий Валентинович</fullname><code>000000478</code><inn>352502418324</inn><kpp></kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Грин-Стрит ООО</name><fullname>ООО "Грин-Стрит"</fullname><code>000000479</code><inn>3522004235</inn><kpp>352201001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Экран ВПО ООО</name><fullname>ООО Вологодское Производственное Объединение "Экран"</fullname><code>000000480</code><inn>3525095960</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Стандарт Спирт ООО</name><fullname>Общество с ограниченной ответственностью"Стандарт Спирт"</fullname><code>000000485</code><inn>0724001344</inn><kpp>072401001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Управление госинспекции по надзору за тех.состоянием сам.машин</name><fullname>Управление государственной инспекции по надзору за тех.состоянием самоходных машин и др.видов техники</fullname><code>000000481</code><inn>3525134306</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Бушманова Ольга Николаевна</name><fullname>Бушманова Ольга Николаевна</fullname><code>000000482</code><inn>353001553243</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Петровский Юрий Иванович</name><fullname>Петровский Юрий Иванович</fullname><code>000000483</code><inn>352507093020</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>АВто ЛиНиД ООО</name><fullname>ООО "Авто ЛиНиД"</fullname><code>000000486</code><inn>7718855260</inn><kpp>771801001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Веритекс ИК ООО</name><fullname>ООО с ИК "ВЕРИТЕКС"</fullname><code>000000487</code><inn>308563126555</inn><kpp>308501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Баушева Ирина Сергеевна ИП</name><fullname>ИП Баушева Ирина Сергеевна</fullname><code>000000488</code><inn>352601520505</inn><kpp>352601001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Маяр Виталий Григорьевич </name><fullname>Маяр Виталий Григорьевич </fullname><code>000000489</code><inn>352527411715</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Галион СК ООО</name><fullname>Общество с ограниченной ответственностью "СК Галион"</fullname><code>000000490</code><inn>3525242358</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Богданов Николай Андреевич </name><fullname>Богданов Николай Андреевич </fullname><code>000000491</code><inn>352515434806</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Финашина  Анастасия Юрьевна</name><fullname>Финашина  Анастасия Юрьевна</fullname><code>000000492</code><inn>352526779200</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Григорьева Ирина Валерьевна</name><fullname>Григорьева Ирина Валерьевна</fullname><code>000000493</code><inn>350300153167</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Союз производителей алкогольной продукции</name><fullname>Союз производителей алкогольной продукции</fullname><code>000000494</code><inn>7701642016</inn><kpp>770101001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Транзит ООО</name><fullname>Транзит ООО</fullname><code>000000496</code><inn>7838431551</inn><kpp>783801001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>АТП Л-Транс ООО</name><fullname>ООО " А.Т.П."Л-Транс"</fullname><code>000000497</code><inn>3444184789</inn><kpp>344401001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Петровизард ЗАО</name><fullname>ЗАО "Петровизард"</fullname><code>000000498</code><inn>7816475812</inn><kpp>781601001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Хомякова Ольга Евгеньевна  ИП</name><fullname>Индивидуальный предприниматель Хомякова Ольга Евгеньевна  (ИП Хомякова О.Е)</fullname><code>000000499</code><inn>352503472758</inn><kpp></kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>МАКРО инвент ООО</name><fullname>Общество с ограниченной ответственностью "МАКРО инвент"</fullname><code>000000495</code><inn>7724649949</inn><kpp>772401001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Дизайн всего ООО</name><fullname>ООО "Дизайн всего"</fullname><code>000000500</code><inn>7703506065</inn><kpp>770301001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Синтез Про ООО</name><fullname>ООО "Синтез Про"</fullname><code>000000858</code><inn>7707779320</inn><kpp>770701001</kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Лаборатория Логистики ООО</name><fullname>Общество с ограниченной ответственностью "Лаборатория Логистики"</fullname><code>000000857</code><inn>7702708005</inn><kpp>770201001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ООО "Русский Север"</name><fullname>ООО "Русский Север"</fullname><code>000000011</code><inn>4720027123</inn><kpp>472001001</kpp><buyer>Да</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Мегаполис ТД.ООО</name><fullname>ООО "ТОРГОВЫЙ ДОМ "МЕГАПОЛИС"</fullname><code>000000012</code><inn>7718502458</inn><kpp>772301001</kpp><buyer>Да</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>УФК по Лен.Обл.(ИФНС России По Ломоносовскому району)</name><fullname>УФК по Ленинградской области (Межрайонная ИФНС России N 8 по Ленинградской области)</fullname><code>000000013</code><inn>4725000012</inn><kpp>781901001</kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Павук Сергей Владимирович</name><fullname>Павук Сергей Владимирович</fullname><code>000000421</code><inn>352511293110</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Кононов Сергей Дмитриевич</name><fullname>Кононов Сергей Дмитриевич</fullname><code>000000422</code><inn>352517066259</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Алтайвагон ООО</name><fullname>ООО "Алтайвагон"</fullname><code>000000423</code><inn>2208000010</inn><kpp>997850001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ФГУ "Земельная кадастровая палата"по Ленинградской области(л\с06072301920)</name><fullname>ФГУ "Земельная кадастровая палата"по Ленинградской области(л\с06072301920)</fullname><code>000000014</code><inn>4703055314</inn><kpp>470301001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>УФК по Лен.обл.(Управление Федеральной регистрационной службы по Санкт-Петербургу и Ленинградской об</name><fullname>УФК по Лен.обл.(Управление Федеральной регистрационной службы по Санкт-Петербургу и Ленинградской об</fullname><code>000000015</code><inn>7801267400</inn><kpp>780101001</kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Студиоин ООО</name><fullname>Общество с ограниченной ответственностью "СТУДИОИН"</fullname><code>000000714</code><inn>7709895202</inn><kpp>770901001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Месконен Ольга Николаевна</name><fullname>Месконен Ольга Николаевна</fullname><code>000000715</code><inn>290603297900</inn><kpp></kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Медсервис ТЦ ООО</name><fullname>Общество с ограниченной ответственностью "Технический Центр "Медсервис"</fullname><code>000000716</code><inn>4706024480</inn><kpp>781401001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Стекло-Газ НПЦ ЗАО</name><fullname>ЗАО НПЦ "Стекло-Газ"</fullname><code>000000717</code><inn>3304010380</inn><kpp>330401001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Импульс-НДТ ООО</name><fullname>Общество с ограниченной ответственностью "Импульс-НДТ" </fullname><code>000000718</code><inn>7810808656</inn><kpp>781001001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Северо-Западные Технологии ООО</name><fullname> Общество с ограниченной ответственностью "Северо-Западные Технологии" </fullname><code>000000719</code><inn>7805091395</inn><kpp>780501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Шипицын Павел Васильевич</name><fullname>Шипицын Павел Васильевич</fullname><code>000000720</code><inn>352604906514</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Институт экологии и леса ЧНОУ ДПО</name><fullname>ЧНОУ ДПО "Институт экологии и леса" </fullname><code>000000721</code><inn>3525130975</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Ануфриев Борис Николаевич</name><fullname>Ануфриев Борис Николаевич</fullname><code>000000722</code><inn>352503938990</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Лорри ООО</name><fullname>ООО "Лорри"</fullname><code>000000723</code><inn>6663006255</inn><kpp>666301001</kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Логистик-АвтоКапитал</name><fullname>ООО "Логистик-АвтоКапитал"</fullname><code>000000724</code><inn>1656045624</inn><kpp>165601001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Корпоративные логистические системы ООО</name><fullname>ООО Корпоративные логистические системы </fullname><code>000000725</code><inn>5262236700</inn><kpp>526201001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Метеор  ТК ООО</name><fullname>ООО Метеор  ТК ООО</fullname><code>000000726</code><inn>7714837950</inn><kpp>771401001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Опторг СРВ ООО</name><fullname>Общество с ограниченной ответственностью  СРВ Опторг</fullname><code>000000727</code><inn>3525236700</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ИП Шарковский Д.В.</name><fullname>ИП Шарковский Д.В.</fullname><code>000000728</code><inn></inn><kpp></kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Белякова Лариса Николаевна</name><fullname>Белякова Лариса Николаевна</fullname><code>000000729</code><inn>352524608086</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Дор.Знак-Вологда ООО</name><fullname>Общество с ограниченной ответственностью "Дор.Знак-Вологда"</fullname><code>000000730</code><inn>3525145065</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ООО "Вест"</name><fullname>ООО "Вест"</fullname><code>000000731</code><inn>7817313765</inn><kpp>784101001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ТестУниверсал ООО</name><fullname>Общество с  ограниченной ответственностью "ТестУниверсал"</fullname><code>000000732</code><inn>7717577122</inn><kpp>771701001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Центр Водной Техники "Аквалайзер" ООО</name><fullname>Общество с ограниченной ответственностью "Центр Водной Техники "Аквалайзер" </fullname><code>000000733</code><inn>7733810619</inn><kpp>773301001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>GLOBALTEHNOLOGY S.R.L.</name><fullname>GLOBALTEHNOLOGY S.R.L.</fullname><code>000000734</code><inn></inn><kpp></kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Гостиница "ШАХТЕР"</name><fullname>Гостиница "ШАХТЕР"</fullname><code>000000735</code><inn>7723565816</inn><kpp>772301001</kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Айсберг ТК ООО</name><fullname>ООО "Торговая компания Айсберг"</fullname><code>000000353</code><inn>3525092046</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Климов Алексей Павлович</name><fullname>Климов Алексей Павлович</fullname><code>000000354</code><inn>762300814019</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>ООО "ЛокПромТранс"</name><fullname>ООО "ЛокПромТранс"</fullname><code>000000357</code><inn>3528121873</inn><kpp>352801001</kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Дар солнца ТД ООО</name><fullname>ООО "ТД"Дар солнца"</fullname><code>000000358</code><inn>3525192996</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Главный центр специальной связи ФГУП</name><fullname>Управление специальной связи по Вологодской области Главного центра специальной связи</fullname><code>000000360</code><inn>7717043113</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Зевс ООО ЧОП</name><fullname>Общество с ограниченной ответственностью Частное охранное предприятие "Зевс"</fullname><code>000000359</code><inn>3525139872</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Константа ООО</name><fullname>ООО "Константа"</fullname><code>000000363</code><inn>3327843149</inn><kpp>332801001</kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Инжиниринг НПЦ ООО</name><fullname>ООО Научно-Производственный Центр Инжиниринг"</fullname><code>000000361</code><inn>3528075120</inn><kpp>352801001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ФТС(таможенные платежи)</name><fullname>УФК по г.Москве (ФТС России)</fullname><code>000000362</code><inn>7730176610</inn><kpp>773001001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Красное Эхо ООО</name><fullname>ООО "Красное Эхо"</fullname><code>000000364</code><inn>3314006390</inn><kpp>331401001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Майков Виктор Владимирович</name><fullname>Майков Виктор Владимирович</fullname><code>000000365</code><inn>352521046551</inn><kpp></kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Теньгушевский спиртзавод ООО</name><fullname>Общество с ограниченной ответственностью "Спиртовой завод "Теньгушевский"</fullname><code>000000366</code><inn>1320000788</inn><kpp>132001001</kpp><buyer>Да</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>АльянсГрупп ООО</name><fullname>ООО "АльянсГрупп"</fullname><code>000000367</code><inn>3525183198</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Компьютерные технологии ООО</name><fullname>ООО "Компьютерные технологии"</fullname><code>000000368</code><inn>3525223482</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>БиН ООО</name><fullname>Общество с ограниченной ответственностью "БиН"</fullname><code>000000369</code><inn>3525210518</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Био-вита ООО</name><fullname>ООО "Био-вита"</fullname><code>000000370</code><inn>5047046401</inn><kpp>504701001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Травы Башкирии ООО</name><fullname>ООО "Травы Башкирии"</fullname><code>000000371</code><inn>0275000936</inn><kpp>027201001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Купи.ру ООО</name><fullname>Общество с ограниченной ответственностью "Купи.ру"</fullname><code>000000372</code><inn>3525224905</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ТрансКомпани ООО</name><fullname>ООО "ТрансКомпани"</fullname><code>000000373</code><inn>3525167862</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Аквилон ООО</name><fullname>ООО "Аквилон"</fullname><code>000000374</code><inn>6161049713</inn><kpp>616101001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Курзенева Алла Юрьевна</name><fullname>Курзенева Алла Юрьевна</fullname><code>000000376</code><inn>352527942931</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Соловьев Д К ЧП</name><fullname>Индивидуальный предприниматель Соловьев Дмитрий Константинович</fullname><code>000000375</code><inn>352501012184</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Компьютерные технологии ООО</name><fullname>ООО "Компьютерные технологии"</fullname><code>000000377</code><inn>3525223482</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ЖелДорЭкспедиция-Ив</name><fullname>ООО "ЖелДорЭкспедиция -Ив"</fullname><code>000000379</code><inn>3702589865</inn><kpp>370201001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Эней ООО</name><fullname>ООО "Эней"</fullname><code>000000378</code><inn>7715747940</inn><kpp>771501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Коломоец Александр Викторович</name><fullname>Коломоец Александр Викторович</fullname><code>000000380</code><inn>000000000000</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Бев-Тек ООО</name><fullname>ООО "Бев-Тек"</fullname><code>000000381</code><inn>7733728629</inn><kpp>773301001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Аверс ООО</name><fullname>Общество с ограниченной ответственностью "Аверс"  ООО "Аверс"</fullname><code>000000382</code><inn>3525132891</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Амперсанд Авто ООО</name><fullname>Общество с ограниченной ответственностью  "Амперсанд Авто"</fullname><code>000000860</code><inn>3525293049</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Компас ООО</name><fullname>Общество с ограниченной ответственностью "Компас" (ООО "Компас" )</fullname><code>000000861</code><inn>7816413051</inn><kpp>781601001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ОКАДА ПромСнаб ООО</name><fullname>Общество с ограниченной ответственностью "ОКАДА ПромСнаб"</fullname><code>000000862</code><inn>3525268902</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>АО Альянс ООО</name><fullname>Общество с ограниченной ответственностью "АО Альянс" (ООО "АО Альянс")</fullname><code>000000859</code><inn>3525275280</inn><kpp>352501001</kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Задворная Елена Сергеевна</name><fullname>Задворная Елена Сергеевна</fullname><code>000000863</code><inn>352513419425</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Смирнов Владимир Борисович</name><fullname>Смирнов Владимир Борисович</fullname><code>000000864</code><inn>352511806210</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Тамарикс Лоджистикс ООО</name><fullname>Общество с ограниченной ответственностью "ТАМАРИКС Лоджистикс"</fullname><code>000000865</code><inn>7802798309</inn><kpp>780201001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Коковашин Вячеслав Александрович</name><fullname>Коковашин Вячеслав Александрович</fullname><code>000000866</code><inn>352529344239</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Данилюк Евгений Борисович</name><fullname>Данилюк Евгений Борисович</fullname><code>000000867</code><inn>350702679055</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>ФГБУ РНЦ МРиК Минздрава России</name><fullname>Федеральное государственное бюджетное учреждение "Российский научный центр медицинской реабилитации и курортологии"</fullname><code>000000869</code><inn>7704040281</inn><kpp>770401001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Григорьев А.Н. ИП</name><fullname>Индивидуальный предприниматель Григорьев Алексей Николаевич </fullname><code>000000870</code><inn>352701826705</inn><kpp>352701001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>БизнесСофт-Вологда ООО</name><fullname>Общество с ограниченной ответственностью "БизнесСофт-Вологда" </fullname><code>000000868</code><inn>3525217746</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>АгроПроект ООО</name><fullname>Общество с ограниченной ответственностью "АгроПроект"</fullname><code>000000871</code><inn>3525281413</inn><kpp>352501001</kpp><buyer>Да</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ВологдаСпецОдежда ООО</name><fullname>Общество с ограниченной ответственностью "ВологдаСпецОдежда"</fullname><code>000000872</code><inn>3525288948</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Попов Александр Сергеевич</name><fullname>Попов Александр Сергеевич</fullname><code>000000873</code><inn>352526995306</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Лидер ООО</name><fullname>Общество с ограниченной ответственностью "Лидер"</fullname><code>000000874</code><inn>7719725432</inn><kpp>771901001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Компьютерные технологии 2000 ООО</name><fullname>Общество с ограниченной ответственностью "Компьютерные технологии 2000 "</fullname><code>000000877</code><inn>7714126770</inn><kpp>771401001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Панова Светлана Михайловна</name><fullname>Панова Светлана Михайловна</fullname><code>000000875</code><inn>350701939328</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>ЗАО ВТБ 24</name><fullname>ЗАО ВТБ 24</fullname><code>000000876</code><inn>7710353606</inn><kpp>771001001</kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Первый Арбитражный суд Октябрьского района г.Владимира</name><fullname>УФК по Владимирской области (ИФНС России по Октябрьскому району г.Владимира)</fullname><code>000000878</code><inn>3328009708</inn><kpp>332801001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Армадилло Бизнес Посылка ЗАО</name><fullname> ЗАО "Армадилло Бизнес Посылка"</fullname><code>000000879</code><inn>7713215523</inn><kpp>165803001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ТранКо ООО</name><fullname>Общество с ограниченной ответственностью "ТранКо"</fullname><code>000000880</code><inn>7841320354</inn><kpp>784101001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Авилон-КомпаниХим ООО</name><fullname>Общество с ограниченной ответственностью "Авилон-КомпаниХим"</fullname><code>000000881</code><inn>3525281565</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>АПАН </name><fullname>Ассоциация производителей алкогольных напитков</fullname><code>000000882</code><inn>7728400656</inn><kpp>772801001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Технологии сервиса ОАО</name><fullname>ОАО "Технологии сервиса"</fullname><code>000000883</code><inn>770843001</inn><kpp>770801001</kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Кузбассоргхим ООО</name><fullname>Общество с ограниченной ответственностью "Кузбассоргхим"</fullname><code>000000884</code><inn>4210006285</inn><kpp>420501001</kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>МААН ООО</name><fullname>МААН ООО</fullname><code>000000885</code><inn>7728162345</inn><kpp>772801001</kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Шуркина Светлана Геннадьевна</name><fullname>Шуркина Светлана Геннадьевна</fullname><code>000000886</code><inn>741806639511</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Лен ТИСИЗ, ЗАО</name><fullname>Лен ТИСИЗ, ЗАО</fullname><code>000000021</code><inn>7826692767</inn><kpp>782601001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ФСС РФ от  НС</name><fullname>ФСС РФ от  НС</fullname><code>000000016</code><inn>7810240130</inn><kpp>781001001</kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>"Банк Москвы"Санкт-Петербургский Филиал ОАО</name><fullname>"Банк Москвы"Санкт-Петербургский Филиал ОАО</fullname><code>000000017</code><inn>7702000406</inn><kpp>770201001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>АК" Имидж Холдинг АпС"</name><fullname>АК" Имидж Холдинг АпС"</fullname><code>000000018</code><inn>0026572193</inn><kpp>002601001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>АКИБ "УКРСИББАНК"</name><fullname>АКИБ "УКРСИББАНК"</fullname><code>000000020</code><inn>0009807750</inn><kpp>000901001</kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Вологодский ликёро-водочный завод ООО</name><fullname>Общество с ограниченной  ответственностью "Вологодский ликёро-водочный завод" (ООО "Вологодский ликёро-водочный завод"</fullname><code>000000653</code><inn>3518008050</inn><kpp>351801001</kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Виктория  Транспортная компания ООО</name><fullname>Общество с ограниченной ответственностью "ТК "Виктория" (ООО "ТК"Виктория")</fullname><code>000000655</code><inn>7841446011</inn><kpp>784101001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Инокстрейд ООО</name><fullname>ООО "Инокстрейд"</fullname><code>000000654</code><inn>7702663989</inn><kpp>770201001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>АЛТЭКС-СОФТ ООО</name><fullname>АЛТЭКС-СОФТ ООО</fullname><code>000000656</code><inn>7729587936</inn><kpp>505401001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Белугин Александр Сергеевич</name><fullname>Белугин Александр Сергеевич</fullname><code>000000657</code><inn>352822550346</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Вита-Принт ООО</name><fullname>ООО "Вита-Принт"</fullname><code>000000658</code><inn>6450029089</inn><kpp>645201001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Добрынских Людмила Николаевна</name><fullname>Добрынских Людмила Николаевна</fullname><code>000000659</code><inn>352700551293</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Соловьева Юлия Владимировна</name><fullname>Соловьева Юлия Владимировна</fullname><code>000000660</code><inn>352703966190</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Сучкова Вера Владимировна</name><fullname>Сучкова Вера Владимировна</fullname><code>000000662</code><inn>352514332488</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Галютина Алёна Андреевна</name><fullname>Галютина Алёна Андреевна</fullname><code>000000663</code><inn>352527830441</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Вологодская ягода ООО</name><fullname>ООО "Вологодская ягода"</fullname><code>000000661</code><inn>3519003834</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Гаджиев Имдат -</name><fullname>Гаджиев Имдат -</fullname><code>000000664</code><inn>352531174249</inn><kpp></kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Копылов С.А. ИП</name><fullname>Индивидуальный предприниматель Копылов Сергей Александрович</fullname><code>000000665</code><inn>352513588261</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Промэнергоавтоматика НПФ  ООО</name><fullname>ООО НПФ "Промэнергоавтоматика"</fullname><code>000000666</code><inn>7721232427</inn><kpp>772101001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Благорожев В.Г ИП</name><fullname>Индивидуальный предприниматель  Благорожев Владимир Геннадьевич</fullname><code>000000667</code><inn>352500059870</inn><kpp></kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Яковлев Д.Б</name><fullname>Индивидуальный предприниматель  Яковлев Денис Борисович</fullname><code>000000668</code><inn>352504804149</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Трубин Александр Васильевич</name><fullname>Трубин Александр Васильевич</fullname><code>000000669</code><inn>352512466574</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Торгстройавто ООО</name><fullname>Общество с ограниченной ответственностью "Торгстройавто"</fullname><code>000000670</code><inn>7604175687</inn><kpp>760401001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Ратушина Анна Сергеевна</name><fullname>Ратушина Анна Сергеевна</fullname><code>000000587</code><inn>352529936690</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Зиничева Виктория Александровна  </name><fullname>Зиничева Виктория Александровна  </fullname><code>000000588</code><inn>352528182264</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Молотов Валерий Викторович</name><fullname>Молотов Валерий Викторович</fullname><code>000000589</code><inn>352508530636</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Сергеев Николай Борисович</name><fullname>Сергеев Николай Борисович</fullname><code>000000590</code><inn>352519244612</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Копышева Анастасия Викторовна</name><fullname>Копышева Анастасия Викторовна</fullname><code>000000591</code><inn>352101218818</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Пелевин Кирилл Валентинович</name><fullname>Пелевин Кирилл Валентинович</fullname><code>000000592</code><inn>352529975361</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Солодов Родион Павлович </name><fullname>Солодов Родион Павлович </fullname><code>000000593</code><inn>352514289070</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Попова Галина Ивановна</name><fullname>Попова Галина Ивановна</fullname><code>000000594</code><inn>351300366946</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Домничев Василий Сергеевич </name><fullname>Домничев Василий Сергеевич </fullname><code>000000595</code><inn>781645141887</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Пименова Елизавета Витальевна</name><fullname>Пименова Елизавета Витальевна</fullname><code>000000596</code><inn>352524487515</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Баданина Надежда Анатольевна </name><fullname>Баданина Надежда Анатольевна </fullname><code>000000597</code><inn>350701930653</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Елина Марина Алексеевна</name><fullname>Елина Марина Алексеевна</fullname><code>000000598</code><inn>352531141275</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Верещагина Наталья Александровна</name><fullname>Верещагина Наталья Александровна</fullname><code>000000599</code><inn>352509400051</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Субботин Александр Васильевич</name><fullname>Субботин Александр Васильевич</fullname><code>000000600</code><inn>352512628994</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Красикова Анна Владимировна</name><fullname>Красикова Анна Владимировна</fullname><code>000000601</code><inn>352517259317</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Абрамов Александр Валентинович</name><fullname>Абрамов Александр Валентинович</fullname><code>000000602</code><inn>352524318926</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Солина Ирина Валентиновна</name><fullname>Солина Ирина Валентиновна</fullname><code>000000603</code><inn>352525585145</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Фомичева Ольга Александровна</name><fullname>Фомичева Ольга Александровна</fullname><code>000000604</code><inn>352523684574</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Литова Ольга Борисовна</name><fullname>Литова Ольга Борисовна</fullname><code>000000605</code><inn>352526389538</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Лындина Ольга Юрьевна</name><fullname>Лындина Ольга Юрьевна</fullname><code>000000607</code><inn>352501154118</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Жилицкая Эльвира Наильевна</name><fullname>Жилицкая Эльвира Наильевна</fullname><code>000000608</code><inn>352502722525</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Жукова Татьяна Владимировна</name><fullname>Жукова Татьяна Владимировна</fullname><code>000000610</code><inn>352502894404</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Шарый Наталья Арнольдовна</name><fullname>Шарый Наталья Арнольдовна</fullname><code>000000611</code><inn>352500326910</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Артель-Авто ООО</name><fullname>Общество с ограниченной ответственностью "Артель-авто" (ООО "Артель-Авто")</fullname><code>000000606</code><inn>3444170338</inn><kpp>344401001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>МЕЖТРАНСАВТО ООО</name><fullname>Общество с ограниченной ответственностью "Межтрансавто" (ООО "Межтрансавто"))</fullname><code>000000609</code><inn>7728600623</inn><kpp>772801001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Физкультурно-спортивный центр МБУ</name><fullname>МБУ "ФСЦ города Вологды"</fullname><code>000000612</code><inn>3525130213</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>МАГНА  ООО</name><fullname>Общество с ограниченной ответственностью  "МАГНА" (ООО "МАГНА")</fullname><code>000000613</code><inn>7444055452</inn><kpp>744401001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ЧОУ ВОФП "Учебно-методический центр"</name><fullname>Частное образовательное учреждение Вологодской областной Федерации профсоюзов "Учебно-методический центр"</fullname><code>000000614</code><inn>3525105150</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Удостоверяющий центр,ЗАО</name><fullname>Удостоверяющий центр,ЗАО</fullname><code>000000027</code><inn>7806122720</inn><kpp>780601001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Бриго ООО</name><fullname>Общество с ограниченной ответственностью "Бриго" </fullname><code>000000672</code><inn>7724793886</inn><kpp>772401001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Формаг МСК ООО</name><fullname>Общество с ограниченной ответственностью "ФОРМАГ МСК"</fullname><code>000000671</code><inn>7728661930</inn><kpp>772801001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ИнтерТрейд  ООО</name><fullname>ООО "ИнтерТрейд"</fullname><code>000000673</code><inn>3525253046</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Вологодский молочный комбинат ПК</name><fullname>Производственный кооператив "Вологодский молочный комбинат"</fullname><code>000000674</code><inn>3525119121</inn><kpp>353950001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Спектр-Строй ООО</name><fullname>Общество с ограниченной ответственностью "Спектр-Строй"</fullname><code>000000675</code><inn>3525268758</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ПК-Строй ООО</name><fullname>Общество с ограниченной ответственностью "ПК-Строй"</fullname><code>000000676</code><inn>3525241820</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Невзоров Д.А</name><fullname>Индивидуальный Предприниматель Невзоров Денис Александрович</fullname><code>000000677</code><inn>352702527698</inn><kpp>352701001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Виктория-Охтинская ООО</name><fullname>Виктория-Охтинская ООО</fullname><code>000000678</code><inn>7806450946</inn><kpp>780601001</kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>ДИМАКО-РУС ООО</name><fullname>Общество с ограниченной ответственностью "ДИМАКО -РУС"</fullname><code>000000681</code><inn>6102039336</inn><kpp>610201001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Гладков Сергей Витальевич</name><fullname>Гладков Сергей Витальевич</fullname><code>000000680</code><inn>352500955250</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Промсоль ООО</name><fullname>ООО "Промсоль"</fullname><code>000000682</code><inn>3525273733</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Хроматэк СКБ ЗАО</name><fullname>Закрытое акционерное общество СКБ "Хроматэк" </fullname><code>000000683</code><inn>1215032212</inn><kpp>121501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Ершова А.Н. ИП</name><fullname>Индивидуальный предприниматель Ершова Анастасия Николаевна</fullname><code>000000685</code><inn>352524648667</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ГеоАвтоТранс ООО</name><fullname>Общество с ограниченной ответственностью "ГеоАвтоТранс" </fullname><code>000000684</code><inn>5259067611</inn><kpp>525901001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ТРАНС-СЕРВИС ЧП</name><fullname>ЧП "ТРАНС-СЕРВИС"</fullname><code>000000686</code><inn>7707083893</inn><kpp>770701001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>РТИ Деталь ООО</name><fullname>Общество с ограниченной ответственностью "РТИ Деталь"</fullname><code>000000687</code><inn>3525131175</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Кукушкина Анна Юрьевна </name><fullname>Кукушкина Анна Юрьевна </fullname><code>000000688</code><inn>352507242836</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Артем ПГ ООО</name><fullname>ООО "Промышленная Группа "Артем"</fullname><code>000000689</code><inn>3525161733</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Электроматериалы ООО</name><fullname>ООО "Электроматериалы"</fullname><code>000000691</code><inn>7804442731</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Зайченко Юлия Юрьевна</name><fullname>Зайченко Юлия Юрьевна</fullname><code>000000690</code><inn>352524325828</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Россион ООО</name><fullname>Общество с ограниченной ответственностью "Россион"</fullname><code>000000692</code><inn>7811325355</inn><kpp>781101001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Русский Север ООО</name><fullname>ООО "Русский Север"</fullname><code>000000345</code><inn>4720027123</inn><kpp>352501001</kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Стройиндустрия ООО</name><fullname>ООО"Стройиндустрия"</fullname><code>000000346</code><inn>3525090786</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Вологдатрансагентство ОАО</name><fullname>Открытое акционерное общество "Вологдатрансагентство" (ОАО "Вологдатрансагентство")</fullname><code>000000347</code><inn>3525134338</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Портфолио ООО</name><fullname>Общество с ограниченной ответственностью "Портфолио" (ООО "Портфолио")</fullname><code>000000348</code><inn>3525144135</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Беридзе М.Т ИП</name><fullname>Индивидуальный предприниматель Беридзе Михаил Теймуразович</fullname><code>000000349</code><inn>352523500971</inn><kpp></kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Костюничев А Н ИП</name><fullname>Предприниматель  Костюничев Александр Николаевич</fullname><code>000000350</code><inn>352504880118</inn><kpp></kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Бубнов Иван Игоревич</name><fullname>Бубнов Иван Игоревич</fullname><code>000000351</code><inn>771506886011</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Полипак-Вологда ООО</name><fullname>ООО "Полипак-Вологда"</fullname><code>000000352</code><inn>3525142554</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Старослав ООО</name><fullname>ООО "Старослав"</fullname><code>000000615</code><inn>5405418691</inn><kpp>540501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Супрунова Наталья Александровна</name><fullname>Супрунова Наталья Александровна</fullname><code>000000616</code><inn>352701432556</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Пачев Павел Андреевич</name><fullname>Пачев Павел Андреевич</fullname><code>000000618</code><inn>000000000000</inn><kpp></kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Техносорб ТМ ООО</name><fullname>ООО "Техносорб ТМ"</fullname><code>000000617</code><inn>5904247547</inn><kpp>590401001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Север-Трейд ЗАО </name><fullname>Закрытое акционерное общество "Север-Трейд"</fullname><code>000000619</code><inn>3525119964</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ДИО Логистик ООО</name><fullname>Общество с ограниченной ответственностью "ДИО Логистик"</fullname><code>000000620</code><inn>1655199283</inn><kpp>165501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Альянс-Авто ООО</name><fullname>Общество с ограниченной ответственностью "Альянс-Авто"</fullname><code>000000621</code><inn>3662170183</inn><kpp>366201001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ТЭК ВТА ООО</name><fullname>ООО  ТЭК "ВТА"</fullname><code>000000622</code><inn>3525278516</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Вершина ТПГ ООО</name><fullname>Торгово-Промышленная Группа "Вершина"</fullname><code>000000623</code><inn>7702070139</inn><kpp></kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Пахаренко и партнеры ООО</name><fullname>ОАО "Укрэсимбанк", Киев, Украина </fullname><code>000000625</code><inn>7702070139</inn><kpp>770201001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Кузнецов Е.М. ИП</name><fullname>ИП Кузнецов Евгений Михайлович </fullname><code>000000626</code><inn>352200981410</inn><kpp>352201001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Ефимова Елена Юрьевна</name><fullname>Ефимова Елена Юрьевна</fullname><code>000000624</code><inn>352700400022</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>ПИТ-СПЕЦПРИБОРСЕРВИС ООО</name><fullname>ООО "ПИТ-СПЕЦПРИБОРСЕРВИС"</fullname><code>000000627</code><inn>7802301277</inn><kpp>780201001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Фортшритт ООО</name><fullname>Обество с ограниченной ответственностью "Фортшритт"</fullname><code>000000629</code><inn>7728168971</inn><kpp></kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Димако ООО</name><fullname>Общество с ограниченной ответственностью "Димако"</fullname><code>000000630</code><inn>7702070139</inn><kpp></kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Сивый Константин Валерьевич</name><fullname>Сивый Константин Валерьевич</fullname><code>000000628</code><inn>352532866309</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Милеста ИК ООО</name><fullname>Общество с ограниченной ответственностью "Инжиниринговая компания Милеста"</fullname><code>000000632</code><inn>7725729900</inn><kpp>772501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>МеталлСнаб ООО</name><fullname>Общество с ограниченной ответственностью  "МеталлСнаб" </fullname><code>000000631</code><inn>3525229117</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Промтехснаб ООО</name><fullname>ООО "Промтехснаб"</fullname><code>000000633</code><inn>3525276477</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Би Логисти к ЗАО</name><fullname>ЗАО "Би Логистик"</fullname><code>000000634</code><inn>7717607144</inn><kpp>771701001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Голубева Марина Борисовна</name><fullname>Голубева Марина Борисовна</fullname><code>000000635</code><inn>352513288211</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Теплякова Ирина Анатольевна</name><fullname>Теплякова Ирина Анатольевна</fullname><code>000000636</code><inn>352505838292</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Ефимова Марина Леонидовна</name><fullname>Ефимова Марина Леонидовна</fullname><code>000000637</code><inn>352513397500</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Беляков Сергей Рафаилович</name><fullname>Беляков Сергей Рафаилович</fullname><code>000000638</code><inn>352515371592</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Молчанова Ирина Николаевна</name><fullname>Молчанова Ирина Николаевна</fullname><code>000000639</code><inn>352511232397</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Михайлов Эдуард Юрьевич</name><fullname>Михайлов Эдуард Юрьевич</fullname><code>000000640</code><inn>352501340058</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Слабкович Надежда Николаевна</name><fullname>Слабкович Надежда Николаевна</fullname><code>000000641</code><inn>352519363151</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Цивилева Татьяна Николаевна</name><fullname>Цивилева Татьяна Николаевна</fullname><code>000000642</code><inn>352522063292</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Литова Татьяна Андреевна</name><fullname>Литова Татьяна Андреевна</fullname><code>000000643</code><inn>352531038944</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Лындин Денис Сергеевич</name><fullname>Лындин Денис Сергеевич</fullname><code>000000644</code><inn>352532446167</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Машкарин Владимир Павлович</name><fullname>Машкарин Владимир Павлович</fullname><code>000000645</code><inn>352517968440</inn><kpp></kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>АвтоВэй ЗАО</name><fullname>ЗАО "АвтоВэй"</fullname><code>000000646</code><inn>7709842899</inn><kpp>770901001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Тарекса НПФ ООО</name><fullname>ООО "НПФ "Тарекса"</fullname><code>000000647</code><inn>7720244645</inn><kpp>770901001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Ромодановский спиртовой завод ООО</name><fullname>Общество с ограниченной ответственностью "Спиртовой завод "Ромодановский"</fullname><code>000000648</code><inn>1316198246</inn><kpp>131601001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Ельдецов Владимир Анатольевич</name><fullname>Ельдецов Владимир Анатольевич</fullname><code>000000649</code><inn>352704687111</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Першин В.М</name><fullname>Першин Владимир Михайлович</fullname><code>000000650</code><inn>352507189886</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ВЭК ООО</name><fullname>ООО "ВЭК"</fullname><code>000000651</code><inn>3525246546</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Перевозчики</name><fullname></fullname><code>000000652</code><inn></inn><kpp></kpp><buyer></buyer><supplier></supplier>
+	</counterpart>
+	<counterpart><name>Агромаш НПО ООО</name><fullname>ООО "НПО "Агромаш"</fullname><code>000000556</code><inn>5031078380</inn><kpp>503101001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Упаковочные решения ООО</name><fullname>ООО " Упаковочные решения"</fullname><code>000000557</code><inn>7733548016</inn><kpp>501601001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Элли ООО</name><fullname>ООО "Элли"</fullname><code>000000558</code><inn>3525232840</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Морозова Татьяна Витальевна</name><fullname>Морозова Татьяна Витальевна</fullname><code>000000559</code><inn>352500077510</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Куликова Наталья Алексеевна</name><fullname>Куликова Наталья Алексеевна</fullname><code>000000560</code><inn>352503228661</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Мокиенков Антон Борисович</name><fullname>Мокиенков Антон Борисович</fullname><code>000000561</code><inn>352525926814</inn><kpp></kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Полтава -комбитранс ЧП</name><fullname>Сбербанк России ОАО  Россия,г.Москва</fullname><code>000000562</code><inn>7707083893</inn><kpp></kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Правдина Елена Александровна</name><fullname>Правдина Елена Александровна</fullname><code>000000563</code><inn>350704154624</inn><kpp></kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Дементьева Анна Олеговна</name><fullname>Дементьева Анна Олеговна</fullname><code>000000564</code><inn>352509530290</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Воропанов Александр Алексеевич</name><fullname>Воропанов Александр Алексеевич</fullname><code>000000565</code><inn>352514773651</inn><kpp></kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Гаджиева Людмила Анатольевна</name><fullname>Гаджиева Людмила Анатольевна</fullname><code>000000566</code><inn>352507156986</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>ЮниГруз  ООО</name><fullname>ООО  ЮниГруз</fullname><code>000000568</code><inn>5027175293</inn><kpp>502701001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Коротаев Д.М ИП </name><fullname>Индивидуальный предприниматель Коротаев Дмитрий Михайлович</fullname><code>000000567</code><inn>352517160910</inn><kpp>352501001</kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Крепеж ООО</name><fullname>Общество с ограниченной ответственностью "Крепеж"</fullname><code>000000569</code><inn>3525203020</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Универсалснаб ТД ООО</name><fullname>ООО ТД "Универсалснаб"</fullname><code>000000570</code><inn>3525218997</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Северное управление Фед.службы по экол. надзору</name><fullname>Северное управление Федеральной службы по экологическому, технологическому и атомному надзору</fullname><code>000000571</code><inn>3525017472</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Новелла ООО</name><fullname>ООО "Новелла"</fullname><code>000000572</code><inn>3663036310</inn><kpp>366101001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Тигина Кира Аркадьевна</name><fullname>Тигина Кира Аркадьевна</fullname><code>000000573</code><inn>352507258339</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Макова Людмила Витальевна</name><fullname>Макова Людмила Витальевна</fullname><code>000000574</code><inn>352507259212</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Лепихина Надежда Акиндиновна</name><fullname>Лепихина Надежда Акиндиновна</fullname><code>000000575</code><inn>352507259149</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Классик Сахар М ООО</name><fullname>ООО "Классик Сахар М"</fullname><code>000000576</code><inn>7723507194</inn><kpp>772301001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>НИИРП ОАО</name><fullname>Открытое акционерное общество "Научно-исследовательский институт резиновой промышленности"</fullname><code>000000577</code><inn>5042013804</inn><kpp>504201001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Сервис -Интегратор СПб ООО</name><fullname>ООО "Сервис-Интегратор СПб"</fullname><code>000000578</code><inn>7805496962</inn><kpp>780501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ВВК ООО</name><fullname>ООО "ВВК"</fullname><code>000000579</code><inn>3525260766</inn><kpp>352501001</kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Солодягин Б.В. ИП</name><fullname>Индивидуальный предприниматель  Солодягин Борис Валерьевич</fullname><code>000000580</code><inn>352502072789</inn><kpp></kpp><buyer>Да</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Мелехова  Ирина Алексеевна ИП</name><fullname>Индивидуальный предприниматель Мелехова Ирина Алексеевна</fullname><code>000000582</code><inn>350703319425</inn><kpp></kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Паламарчук Светлана Бренгартовна</name><fullname>Паламарчук Светлана Бренгартовна</fullname><code>000000581</code><inn>352507273658</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Силинская Виктория Александровна</name><fullname>Силинская Виктория Александровна</fullname><code>000000583</code><inn>164807466750</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Маслова Галина Юрьевна</name><fullname>Маслова Галина Юрьевна</fullname><code>000000584</code><inn>350902686003</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Техногаз ООО</name><fullname> Общество с ограниченной ответственностью "Техногаз"</fullname><code>000000585</code><inn>3525134955</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Транс - Альфа Газ  ОАО</name><fullname>ОАО "Транс-Альфа ГАЗ"</fullname><code>000000586</code><inn>3525194009</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ГУ "Санкт-Петербургский ЦГМС-Р"</name><fullname>ГУ "Санкт-Петербургский ЦГМС-Р"</fullname><code>000000030</code><inn>7801201880</inn><kpp>780101001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>МК-Строй ООО</name><fullname>ООО "МК-Строй"</fullname><code>000000319</code><inn>3525234244</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Протемол ООО</name><fullname>Общество с ограниченной ответственностью "Протемол"</fullname><code>000000320</code><inn>3525224581</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Континент строй ООО</name><fullname>ООО "Континент строй"</fullname><code>000000321</code><inn></inn><kpp></kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Маяр Елена Петровна</name><fullname>Маяр Елена Петровна</fullname><code>000000322</code><inn>352507226633</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Промышленная безопасность АНО</name><fullname>АНО "Промышленная безопасность"</fullname><code>000000323</code><inn>3525119210</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Ю Би Си Инжиниринг ООО</name><fullname> ООО "Ю Би Си Инжиниринг"</fullname><code>000000324</code><inn>7733740104</inn><kpp>773301001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Межрайонная ИФНС России №1 по Вологодской области</name><fullname> УФК по Вологодской области (Межрайонная ИФНС России №1 по Вологодской области)</fullname><code>000000325</code><inn>3529000014</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Иклипс студия ООО</name><fullname>Общество с ограниченной ответственностью Студия "Иклипс"</fullname><code>000000326</code><inn>3525159090</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Ирбис ООО</name><fullname>ООО "Ирбис"</fullname><code>000000327</code><inn>3525177606</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Континент строй ООО</name><fullname>Общество с ограниченной ответственностью "Континент строй" (ООО Континент строй")</fullname><code>000000329</code><inn>3525091363</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Новострой ООО</name><fullname>ООО "Новострой"</fullname><code>000000330</code><inn>3525214093</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Энтерпром ООО</name><fullname>ООО "Энтерпром"</fullname><code>000000331</code><inn>3528099900</inn><kpp>352801001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Болтушкин  А.В.</name><fullname>ИП Болтушкин Александр Васильевич</fullname><code>000000332</code><inn>352515461077</inn><kpp></kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Спорт-Авто ООО</name><fullname>ООО "Спорт-Авто"</fullname><code>000000333</code><inn>3525095505</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Гортест ООО</name><fullname>Общество с ограниченной ответственностью "Гортест"</fullname><code>000000736</code><inn>7717616798</inn><kpp>771701001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Женьшень ССХП ООО</name><fullname>ООО "ССХП "ЖЕНЬШЕНЬ"</fullname><code>000000424</code><inn>3231006044</inn><kpp>323101001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Малахова Ирина Владимировна</name><fullname>Малахова Ирина Владимировна</fullname><code>000000425</code><inn>352528124713</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Капелькин А.Н ИП</name><fullname>Индивидуальный предприниматель Капелькин Алексей Николаевич</fullname><code>000000555</code><inn>352506600542</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Электропоставка ООО</name><fullname>Общество с ограниченной ответственностью "Электропоставка"</fullname><code>000000785</code><inn>7707707132</inn><kpp>352543001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Тесаловская Л.Ф</name><fullname>Тесаловская Л.Ф</fullname><code>000000803</code><inn></inn><kpp></kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Крапивин Юрий Юрьевич</name><fullname>Крапивин Юрий Юрьевич</fullname><code>000000786</code><inn>352529030553</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Антонов Василий Федорович</name><fullname>Антонов Василий Федорович</fullname><code>000000787</code><inn>350701309573</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Чернодыр Сергей Юрьевич</name><fullname>Чернодыр Сергей Юрьевич</fullname><code>000000788</code><inn>235210569319</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Фомичева Наталия Галактионовна</name><fullname>Фомичева Наталия Галактионовна</fullname><code>000000789</code><inn>352521961021</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Уваров Владимир Ильич</name><fullname>Уваров Владимир Ильич</fullname><code>000000790</code><inn>350902801256</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Саволайнен Мария Михайловна</name><fullname>Саволайнен Мария Михайловна</fullname><code>000000791</code><inn>352527650600</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Коновалова Виктория Владимировна</name><fullname>Коновалова Виктория Владимировна</fullname><code>000000792</code><inn>352533338340</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Ковалев Дмитрий Александрович</name><fullname>Ковалев Дмитрий Александрович</fullname><code>000000793</code><inn>352525159838</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Колесова Ольга Валерьевна</name><fullname>Колесова Ольга Валерьевна</fullname><code>000000794</code><inn>350703917802</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Башкирова Ирина Сергеевна</name><fullname>Башкирова Ирина Сергеевна</fullname><code>000000795</code><inn>352501044108</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Алипичева Екатерина Михайловна</name><fullname>Алипичева Екатерина Михайловна</fullname><code>000000796</code><inn>351101303148</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Окунев Александр Васильевич</name><fullname>Окунев Александр Васильевич</fullname><code>000000797</code><inn>632210418668</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Ануфриева Татьяна Николаевна</name><fullname>Ануфриева Татьяна Николаевна</fullname><code>000000798</code><inn>352503943566</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Федулин Сергей Владимирович</name><fullname>Федулин Сергей Владимирович</fullname><code>000000799</code><inn>351200795155</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Ларькина Татьяна Евгеньевна</name><fullname>Ларькина Татьяна Евгеньевна</fullname><code>000000800</code><inn>352517578137</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Копосова Екатерина Владимировна</name><fullname>Копосова Екатерина Владимировна</fullname><code>000000801</code><inn>352528466001</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Серова Елизавета Александровна</name><fullname>Серова Елизавета Александровна</fullname><code>000000802</code><inn>352535532054</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Иванова Галина Михайловна</name><fullname>Иванова Галина Михайловна</fullname><code>000000804</code><inn>352500770114</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Хартуков Александр Алексеевич</name><fullname>Хартуков Александр Алексеевич</fullname><code>000000805</code><inn></inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Поливанова Ольга Владимировна</name><fullname>Поливанова Ольга Владимировна</fullname><code>000000806</code><inn>352521391822</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Бахвалова Наталья Николаевна</name><fullname>Бахвалова Наталья Николаевна</fullname><code>000000807</code><inn>352513101400</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Кузнецова Светлана Юрьевна</name><fullname>Кузнецова Светлана Юрьевна</fullname><code>000000808</code><inn>352500901960</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Орлов Сергей Дмитриевич</name><fullname>Орлов Сергей Дмитриевич</fullname><code>000000809</code><inn>352513946090</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Огурцов Сергей Александрович</name><fullname>Огурцов Сергей Александрович</fullname><code>000000810</code><inn>352101160702</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Медикал Альянс ООО</name><fullname>Общество с ограниченной ответственностью "Медикал Альянс"</fullname><code>000000813</code><inn>7716711583</inn><kpp>771601001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Бибиксаров Олег Александрович</name><fullname>Бибиксаров Олег Александрович</fullname><code>000000811</code><inn></inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Скородулин Вадим Вадимович</name><fullname>Скородулин Вадим Вадимович</fullname><code>000000812</code><inn>890509749440</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Диагносттикфарм ООО</name><fullname>Общество с ограниченной ответственностью "Диагностикфарм"</fullname><code>000000814</code><inn>3525226363</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ИНСОВТ ЗАО</name><fullname>Закрытое акционерное общество "ИНСОВТ"</fullname><code>000000815</code><inn>7825113329</inn><kpp>784101001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ОСП по г. Вологде № 1 УФССП России по Вологодской области л.с. 05301А53120</name><fullname>УФК по Вологодской области (ОСП по г. Вологде № 1 УФССП России по Вологодской области л.с. 05301А53120)</fullname><code>000000816</code><inn>3525144985</inn><kpp>352545002</kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>НИИ КМ ООО</name><fullname>Общество с ограниченной ответственностью " НИИ КМ"</fullname><code>000000817</code><inn>7706130928</inn><kpp>770601001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Ярославль-Восток-Сервис ЗАО</name><fullname>Закрытое акционерное общество "Ярославль-Восток-Сервис"</fullname><code>000000818</code><inn>7602038734</inn><kpp>760201001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>TAPI S.r.l(Италия)</name><fullname>TAPI S.r.l(Италия)</fullname><code>000000820</code><inn></inn><kpp></kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Фирвэй ООО</name><fullname>Общество с ограниченной ответственностью "Фирвэй"</fullname><code>000000821</code><inn>7731570418</inn><kpp>773101001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Ветропак Гостомельский Стеклозавод АО</name><fullname>АО "Ветропак Гостомельский Стеклозавод"</fullname><code>000000822</code><inn>003338810311</inn><kpp></kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Отделение № 1950 Сбербанка России</name><fullname>Отделение № 1950 Сбербанка России</fullname><code>000000819</code><inn>7707083893</inn><kpp>352802001</kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Центр занятости населения г.Вологды</name><fullname>Казенное учреждение Вологодской области "Центр занятости населения города Вологды"</fullname><code>000000823</code><inn>3525108930</inn><kpp>352501001</kpp><buyer>Да</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Транс-Алко ООО</name><fullname>Общество с ограниченной ответственностью "Транс-Алко"</fullname><code>000000824</code><inn>3662174124</inn><kpp>366201001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Транс-Сервис ООО</name><fullname>Общество с ограниченной ответственностью "Транс-Сервис"</fullname><code>000000825</code><inn>2907012386</inn><kpp>290701001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ТЭКС ООО</name><fullname>Общество с ограниченной ответственностью "ТЭКС"</fullname><code>000000826</code><inn>3525198130</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Геркулесова Вера Константиновна</name><fullname>Геркулесова Вера Константиновна</fullname><code>000000827</code><inn>352513269441</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>ФГБУ ФКП Росреестра по Вологодской области</name><fullname>УФК по Вологодской области (л/с 23306Ц31810 ФГБУ  "ФКП Росреестра" по Вологодской области) </fullname><code>000000828</code><inn>7705401340</inn><kpp>352543001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Позитроника ПФ ООО</name><fullname>ООО ПФ "Позитроника"</fullname><code>000000829</code><inn>3525105023</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Тулиновский приборостроительный завод "ТВЕС" ОАО</name><fullname>Открытое  акционерное общество "Тулиновский приборостроительный завод "ТВЕС"</fullname><code>000000830</code><inn>6820002711</inn><kpp>682001001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Автотрейдинг -М ООО</name><fullname>Общество с ограниченной ответственностью "Автотрейдинг-М"</fullname><code>000000831</code><inn>5027159541</inn><kpp>502701001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Электронные Бизнес Системы ООО</name><fullname>Общество с ограниченной ответственностью "Электронные Бизнес Системы"</fullname><code>000000832</code><inn>7725681350</inn><kpp>772501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Горбунова Елена Витальевна</name><fullname>Горбунова Елена Витальевна</fullname><code>000000833</code><inn>290407133423</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Созонов Альберт Полиевктович</name><fullname>Созонов Альберт Полиевктович</fullname><code>000000834</code><inn>350900269861</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Газпром трансгаз Санкт-Петербург,000</name><fullname>Газпром трансгаз Санкт-Петербург,000</fullname><code>000000038</code><inn>7805018099</inn><kpp>997250001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Геодезия СПб, ООО</name><fullname>Геодезия СПб, ООО</fullname><code>000000028</code><inn>7840010303</inn><kpp>784001001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Торговый стиль ООО</name><fullname>Торговый стиль Общество с ограниченной отвнтственностью</fullname><code>000000003</code><inn>7816203840</inn><kpp>781601001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Международный экологический фонд</name><fullname>Международный экологический фонд</fullname><code>000000025</code><inn>7736109458</inn><kpp>773601001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Мелеста,ЗАО</name><fullname>ЗАО "Компания Мелеста"</fullname><code>000000026</code><inn>7726244070</inn><kpp>772601001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>А-Принт, ЗАО</name><fullname>А-Принт, ЗАО</fullname><code>000000029</code><inn>5037061376</inn><kpp>503701001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>BNP Paribas Vostok</name><fullname>BNP Paribas Vostok</fullname><code>000000040</code><inn>6452010742</inn><kpp>775001001</kpp><buyer>Да</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Титовский Сергей Иванович</name><fullname>Титовский Сергей Иванович</fullname><code>000000699</code><inn>352536534255</inn><kpp></kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Веркауф ООО</name><fullname>Общество с ограниченной  ответственностью "Веркауф" </fullname><code>000000701</code><inn>7728782596</inn><kpp>772801001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Экспресс-Эко ООО</name><fullname>Общество с ограниченной ответственностью "Экспресс-Эко" </fullname><code>000000702</code><inn>4025008270</inn><kpp>402501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Коновалов С.А. ИП</name><fullname>Индивидуальный предприниматель Коновалов Станислав   Александрович</fullname><code>000000703</code><inn>352500126171</inn><kpp></kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Майстренко Геннадий Станиславович</name><fullname>Майстренко Геннадий Станиславович</fullname><code>000000700</code><inn>352529019180</inn><kpp></kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>ОВО ФГКУ УМВД России филиал в г.Вологде</name><fullname>Филиал в г.Вологде ФГКУ УВО УМВД России по Вологодской области</fullname><code>000000704</code><inn>3525282449</inn><kpp>352543001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Устюженский районный суд Вол.обл. (МРИ ФНС № 4 по Вол.обл)</name><fullname>УФК по Вологодской области (МРИ ФНС № 4 по Вологодской области)</fullname><code>000000705</code><inn>3501005340</inn><kpp>350101001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ПластКом ООО</name><fullname>Общество с ограниченной ответственностью "ПластКом"</fullname><code>000000706</code><inn>3525277939</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Северный регион ООО</name><fullname>Общество с ограниченной ответственностью "Северный регион"</fullname><code>000000707</code><inn>3525281389</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Устьянский ЛВЗ ООО</name><fullname>ООО "Устьянский ликеро-водочный завод "</fullname><code>000000709</code><inn>2922005753</inn><kpp>292201001</kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Северное сияние ПК</name><fullname>Общество с ограниченной ответственностью "Производственная компания "Северное сияние"</fullname><code>000000708</code><inn>1020006605</inn><kpp>102001001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Малахов Вадим Валериевич</name><fullname>Малахов Вадим Валериевич</fullname><code>000000710</code><inn>352511182072</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Теплолюкс ООО</name><fullname>Общество с ограниченной ответственностью "Теплолюкс"</fullname><code>000000711</code><inn>7606060145</inn><kpp>760601001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ИФНС России № 7 по с-Петербургу</name><fullname>УФК по г.Санкт-Петербургу ( Межрайонная ИФНС России № 7 по Санкт-Петербургу)</fullname><code>000000712</code><inn>7838000019</inn><kpp>783801001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Нотариус Глухов Сергей Иванович</name><fullname>Нотариус Глухов Сергей Иванович</fullname><code>000000041</code><inn>772732971008</inn><kpp></kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>УФК по г. Санкт-Петербургу ( ФГУ ДС ТО "Санкт-Петербург")</name><fullname>УФК по г. Санкт-Петербургу ( ФГУ ДС ТО "Санкт-Петербург")</fullname><code>000000042</code><inn>7826062821</inn><kpp>783601001</kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>УФК по Ленинградской обл.(ОПФР по Санкт-Петербургу и Ленинградской обл.)</name><fullname>УФК по Ленинградской обл.(ОПФР по Санкт-Петербургу и Ленинградской обл.)</fullname><code>000000043</code><inn>7802114044</inn><kpp>780201001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>АУДИТОРСКАЯ ФИРМА KPMG LIMITE</name><fullname>АУДИТОРСКАЯ ФИРМА KPMG LIMITE</fullname><code>000000044</code><inn></inn><kpp></kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>АлюСтрой ООО</name><fullname>Общество с ограниченной ответственностью "АлюСтрой"</fullname><code>000000737</code><inn>3525218796</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Пикулин Евгений Николаевич</name><fullname>Пикулин Евгений Николаевич</fullname><code>000000738</code><inn>352525126864</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Премьер-Периодика</name><fullname>Общество с ограниченной ответственностью "Премьер-Периодика"</fullname><code>000000739</code><inn>3525125397</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Ленпродмаш ЗАО</name><fullname>Закрытое акционерное общество "Ленпродмаш"</fullname><code>000000740</code><inn>7809006922</inn><kpp>783901001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Прогресс ЦНТИ ООО</name><fullname>ООО "ЦНТИ "Прогресс"</fullname><code>000000741</code><inn>7801406460</inn><kpp>780101001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Контроль-Прибор НПО ООО</name><fullname>Открытое акционерное общество "НПО Контроль-Прибор"</fullname><code>000000742</code><inn>7718877263</inn><kpp>771801001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Славмо ОАО</name><fullname>Открытое акционерное общество "Славмо"</fullname><code>000000744</code><inn>1001004472</inn><kpp>100101001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Химторг ООО</name><fullname>Общество с ограниченной ответственностью "Химторг"</fullname><code>000000745</code><inn>3525234558</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ГСХ Трейдмаркс Лимитед</name><fullname>ГСХ Трейдмаркс Лимитед</fullname><code>000000743</code><inn>12205903Н</inn><kpp>122001001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Гласс декор ТПГ ООО</name><fullname>Общество с ограниченной ответственностью "Торгово-промышленная группа "ГЛАСС ДЕКОР"</fullname><code>000000746</code><inn>5032232300</inn><kpp>503201001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Балтийская Буровая Компания,ООО</name><fullname>Балтийская Буровая Компания,ООО</fullname><code>000000004</code><inn>7807038950</inn><kpp>780701001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Радиант, ПП ООО</name><fullname>ООО "Производственное предприятие "Радиант"</fullname><code>000000005</code><inn>7811051200</inn><kpp>781101001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Местная администрация Муниципального образования Низинское  сельское поселение</name><fullname>Местная администрация Муниципального образования Низинское  сельское поселение</fullname><code>000000006</code><inn>4720008360</inn><kpp>472001001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ООО "Нойдорф-Бау"</name><fullname>ООО "Нойдорф-Бау"</fullname><code>000000031</code><inn>7801385933</inn><kpp>780101001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Булах Людмила Владимировна</name><fullname>Булах Людмила Владимировна</fullname><code>000000501</code><inn>352535122481</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Кулимина Наталья Владимировна</name><fullname>Кулимина Наталья Владимировна</fullname><code>000000502</code><inn>352507171416</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Погодина Марина Алексеевна</name><fullname>Погодина Марина Алексеевна</fullname><code>000000503</code><inn>352000525019</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Малахов Вадим Валериевич</name><fullname>Малахов Вадим Валериевич</fullname><code>000000504</code><inn>352511182072</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>СБиС ЭО ООО</name><fullname>СБиС ЭО ООО</fullname><code>000000505</code><inn>4632154500</inn><kpp>352545001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>РОСТЭК-Северо-Запад ЗАО</name><fullname>Закрытое акционерное общество "РОСТЭК-Северо-Запад"</fullname><code>000000506</code><inn>7841000033</inn><kpp>352545002</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Раут ООО</name><fullname>Общество с ограниченной ответственностью "Раут"</fullname><code>000000777</code><inn>7733769022</inn><kpp>773301001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Опт-Упак ООО</name><fullname>Общество с ограниченной ответственностью "Опт-Упак"</fullname><code>000000778</code><inn>5027165778</inn><kpp>502701001</kpp><buyer>Да</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Промэнерго Автоматика ООО</name><fullname>Общество с ограниченной ответственностью "Промэнерго  Автоматика"</fullname><code>000000779</code><inn>7721756614</inn><kpp>772101001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Эльдорадо  ООО</name><fullname>Общество с ограниченной ответственностью "Эльдорадо"</fullname><code>000000780</code><inn>7715641735</inn><kpp>770601001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Текстилюкс ООО</name><fullname>Общество с ограниченной ответственностью "Текстилюкс"</fullname><code>000000781</code><inn>4401134577</inn><kpp>440101001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>УГИБДД ГУВД по г.Москве</name><fullname>УГИБДД ГУВД по г.Москве</fullname><code>000000782</code><inn>7707089101</inn><kpp>770731005</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Студент ООО</name><fullname>Общество с ограниченной ответственностью "Студент"</fullname><code>000000783</code><inn>3525261294</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Солнцев Сергей Иванович</name><fullname>Солнцев Сергей Иванович</fullname><code>000000784</code><inn>352501464663</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Центр гражданской защиты города Вологды МКУ</name><fullname>УФК по Вологодской области (МКУ "ЦГЗ г.Вологды" л/с 04303274580)</fullname><code>000000426</code><inn>3525105915</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ООО "Ленгеодезиясервис"</name><fullname>ООО "Ленгеодезиясервис"</fullname><code>000000045</code><inn>7814408352</inn><kpp>781101001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Элемент ООО </name><fullname>Общество с ограниченной ответственностью "Элемент " </fullname><code>000000835</code><inn>7816385870</inn><kpp>781601001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Орбис ООО</name><fullname>Общество с ограниченной ответственностью "Орбис"</fullname><code>000000836</code><inn>7814460426</inn><kpp>781401001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ЛК ООО</name><fullname>Общество с ограниченной ответственностью "ЛК"</fullname><code>000000837</code><inn>7716679058</inn><kpp>771601001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ИнтерСплав ООО</name><fullname>Общество с ограниченной ответственностью "ИнтерСплав"</fullname><code>000000838</code><inn>7703718768</inn><kpp>770301001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Адамиум ООО</name><fullname>Адамиум ООО</fullname><code>000000839</code><inn>01003256</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Попова О.В.</name><fullname>Попова Ольга Владимировна</fullname><code>000000840</code><inn></inn><kpp></kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Крутикова Анастасия Евгеньевна</name><fullname>Крутикова Анастасия Евгеньевна</fullname><code>000000841</code><inn></inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Петрова Ирина Николаевна</name><fullname>Петрова Ирина Николаевна</fullname><code>000000842</code><inn>352509577605</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Хорс Транс ООО</name><fullname>Общество с ограниченной ответственностью "Хорс Транс"</fullname><code>000000843</code><inn>7744000302</inn><kpp>775001001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Арбитражный суд Республики Мордовия</name><fullname>Арбитражный суд Республики Мордовия</fullname><code>000000844</code><inn>1326135485</inn><kpp>132601001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Левинский Роман Николаевич</name><fullname>Индивидуальный предприниматель Левинский Роман Николаевич</fullname><code>000000846</code><inn>290214464122</inn><kpp></kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Автопромсервис ООО</name><fullname>Общество с ограниченной ответственностью "Автопромсервис"</fullname><code>000000845</code><inn>3525169429</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ФГБОУ ВПО РГАИС</name><fullname>ФГБОУ ВПО РГАИС</fullname><code>000000847</code><inn>7703108441</inn><kpp>772801001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ТИР-ТРАНС ООО</name><fullname>ООО "ТИР-ТРАНС"</fullname><code>000000848</code><inn>04725091</inn><kpp></kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Профессионал Учебный центр</name><fullname>Негосударственное образовательное учреждение дополнительного образования "Учебный центр "Профессионал"</fullname><code>000000849</code><inn>3525269536</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Пеллотсари ООО</name><fullname>Общество с ограниченной ответственностью "Пеллотсари"</fullname><code>000000850</code><inn>1001222110</inn><kpp>100101001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Возрождение ООО</name><fullname>Общество с оганиченной ответственностью "Возрождение"</fullname><code>000000851</code><inn>3525225497</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ЛенГо Индастриал Техникс</name><fullname>Общество с ограниченной ответственностью "ЛенГо Индастриал Техникс"</fullname><code>000000852</code><inn>7804436978</inn><kpp>780601001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Всеволодов Валерий Евгеньевич</name><fullname>Всеволодов Валерий Евгеньевич</fullname><code>000000853</code><inn>352515828504</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>ИП Грибанова Алла Валерьевна</name><fullname>ИП Грибанова Алла Валерьевна</fullname><code>000000854</code><inn>781412629784</inn><kpp>781401001</kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Арчеда-продукт ООО</name><fullname>Общество с ограниченной ответственностью "Арчеда-продукт"</fullname><code>000000855</code><inn>7713200936</inn><kpp>343201001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ПромТорг ООО</name><fullname>Общество с ограниченной ответственностью "ПромТорг"</fullname><code>000000856</code><inn>3525241040</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Балдина Юлия Сергеевна</name><fullname>Балдина Юлия Сергеевна</fullname><code>000000747</code><inn>352821857409</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Плоскость ООО</name><fullname>Общество с ограниченной ответственностью "Плоскость"</fullname><code>000000748</code><inn>7731643024</inn><kpp>773101001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Крылов Борис Алексеевич</name><fullname>Крылов Борис Алексеевич</fullname><code>000000749</code><inn>352522529287</inn><kpp></kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Галанин Андрей Николаевич ИП</name><fullname>Индивидуальный предприниматель Галанин Андрей Николаевич</fullname><code>000000750</code><inn>352500032296</inn><kpp></kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ИП Кизимов А.В.</name><fullname>ИП Кизимов А.В.</fullname><code>000000751</code><inn>100118859304</inn><kpp>100101001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Федеральная служба по эколог.,техни атом.надзору</name><fullname>Межрегиональное операционное УФК (Федеральная служба по экологическому, технологическому и атомному надзору л.с.04951004960)</fullname><code>000000752</code><inn>7709561778</inn><kpp>770901001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ИП Бобылева Н.П.</name><fullname>ИП Бобылева Н.П.</fullname><code>000000753</code><inn>781002964002</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Диал-Север ООО</name><fullname>ООО "Диал-Север"</fullname><code>000000754</code><inn>2907004716</inn><kpp>290701001</kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Теленков Сергей Александрович</name><fullname>Теленков Сергей Александрович</fullname><code>000000755</code><inn>352509526745</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Стройтранскомплект ООО</name><fullname>Общество с ограниченной ответственностью "Стройтранскомплект"</fullname><code>000000756</code><inn>3525268878</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Спектр-Электро ООО</name><fullname>Общество с ограниченной ответственностью "Спектр-Электро"</fullname><code>000000757</code><inn>3525275586</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Маровец Денис Евгеньевич</name><fullname>Маровец Денис Евгеньевич</fullname><code>000000758</code><inn>352530422964</inn><kpp></kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Онком ООО</name><fullname>Общество с ограниченной ответственностью "Онком"</fullname><code>000000760</code><inn>3528066100</inn><kpp>352801001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ИП Галанин А.Н.</name><fullname>ИП Галанин А.Н.</fullname><code>000000759</code><inn>35250032296</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Юридический центр правовой поддержки бизнеса ООО</name><fullname>ООО "Юридический центр правовой поддержки бизнеса "</fullname><code>000000761</code><inn>7838392863</inn><kpp>783801001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Флексознак ООО</name><fullname>ЗАО "Флексознак"</fullname><code>000000762</code><inn>7714109165</inn><kpp>771401001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>КоробОК ООО</name><fullname>Общество с ограниченной ответственностью "КоробОК"</fullname><code>000000763</code><inn>3525223179</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Атлант ООО</name><fullname>Общество с ограниченной ответственностью "Атлант"</fullname><code>000000765</code><inn>3525276357</inn><kpp>352501001</kpp><buyer>Да</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Образовательный центр"Профит"</name><fullname>АНОО "Образовательный центр"Профит"</fullname><code>000000764</code><inn>7604062179</inn><kpp>760401001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Федеральный арбитражный суд Сев-Зап.окр</name><fullname>Федеральный арбитражный суд Северо-Западного округа</fullname><code>000000766</code><inn>7826667087</inn><kpp>782601001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ИП Ивановская Л.А.</name><fullname>ИП Ивановская Л.А.</fullname><code>000000767</code><inn>781003976096</inn><kpp>781001001</kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>ТЕСТ-С А НО</name><fullname>АНО "ТЕСТ-С-Петербург"</fullname><code>000000768</code><inn>7826139672</inn><kpp>783901001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Энергопром ЗАО</name><fullname>Закрытое акционерное общество "Энергопром"</fullname><code>000000769</code><inn>7805190276</inn><kpp>780501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ТеплоМонтажПроект ООО </name><fullname>Общество с ограниченной ответственностью "ТеплоМонтажПроект"</fullname><code>000000770</code><inn>3525134546</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Вологодский комбинат хлебопродуктов ОАО</name><fullname>Открытое акционерное общество "Вологодский комбинат хлебопродуктов"</fullname><code>000000771</code><inn>3525002331</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Вологдазернопродукт ЗАО</name><fullname>Закрытое акционерное общество "Вологдазернопродукт" </fullname><code>000000772</code><inn>3525066529</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Альфа-Банк</name><fullname>Открытое акционерное общество "Альфа-Банк"</fullname><code>000000773</code><inn>7728168971</inn><kpp>775001001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Чижикова Юлия Валерьевна</name><fullname>Чижикова Юлия Валерьевна</fullname><code>000000774</code><inn>352527735117</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Титова О.Е. ИП</name><fullname>Индивидуальный предприниматель Титова О.Е.</fullname><code>000000775</code><inn>760214337305</inn><kpp>760201001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ЭЛПРОС БУ</name><fullname>БУ "ЭЛПРОС"</fullname><code>000000776</code><inn>3525122942</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>АПИТ, ЗАО</name><fullname>Закрытое акционерное  общество "АПИТ"</fullname><code>000000022</code><inn>7719560325</inn><kpp>771901001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Румянцева Ольга Николаевна</name><fullname>Румянцева Ольга Николаевна</fullname><code>000000554</code><inn>352500422734</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Ист Пак Маркет ООО</name><fullname>ООО "Ист Пак Маркет"</fullname><code>000000444</code><inn>2724141120</inn><kpp>272401001</kpp><buyer>Да</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Афанасьев Дмитрий Леонидович</name><fullname>Афанасьев Дмитрий Леонидович</fullname><code>000000445</code><inn>352827091431</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Снегов Вячеслав Викторович</name><fullname>Снегов Вячеслав Викторович</fullname><code>000000446</code><inn>352511466130</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Управление федеральной службы гос.регистрации, кадастра и картографии по Лен.области</name><fullname>УФК по Ленинградской области (Управление Федеральной службы государственной регистрации, кадастра и картографии по Ленинградской области)</fullname><code>000000447</code><inn>7815027624</inn><kpp>784201001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Герц ООО</name><fullname>Общество с ограниченной ответственностью "Герц"</fullname><code>000000448</code><inn>3525021486</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Аэрофлот - Российские авиалинии ОАО</name><fullname>ОАО "Аэрофлот - Российские авиалинии"</fullname><code>000000449</code><inn>7712040126</inn><kpp>771201001</kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Белоусов Денис Сергеевич</name><fullname>Белоусов Денис Сергеевич</fullname><code>000000450</code><inn></inn><kpp></kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Васильева Юлия Вадимовна</name><fullname>Васильева Юлия Вадимовна</fullname><code>000000451</code><inn>691105750528</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>ДПА ООО</name><fullname>ООО "ДПА"</fullname><code>000000452</code><inn>7718652990</inn><kpp>771601001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Шуйский Сергей Александрович</name><fullname>Шуйский Сергей Александрович</fullname><code>000000453</code><inn>352532045895</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Корпорация климата ООО</name><fullname>ООО "Корпорация климата"</fullname><code>000000454</code><inn>7718762706</inn><kpp>771801001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Русь-Стекло ТК ООО</name><fullname>Общество с ограниченной ответственностью "Торговая Компания "Русь-Стекло"</fullname><code>000000455</code><inn>5047105505</inn><kpp>504201001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ТэлвинЭкспо ООО</name><fullname>ООО "ТэлвинЭкспо"</fullname><code>000000456</code><inn>7709877179</inn><kpp>770901001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ДизайнРу ООО </name><fullname>ООО "ДизайнРу"</fullname><code>000000458</code><inn>7722647431</inn><kpp>772201001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Алексеев Александр Александрович</name><fullname>Алексеев Александр Александрович</fullname><code>000000459</code><inn>352528774937</inn><kpp></kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Скайлаб Продакшн ООО</name><fullname>ОАО Банк ВТБ г.Москва</fullname><code>000000460</code><inn>7702070139</inn><kpp></kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Вагрон ЛВЗ ОАО</name><fullname>Открытое акционерное общество "Вологодский ликёроводочный завод "Вагрон"</fullname><code>000000001</code><inn>3525174651</inn><kpp>352501001</kpp><buyer>Да</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Поставщики и покупатели</name><fullname></fullname><code>000000065</code><inn></inn><kpp></kpp><buyer></buyer><supplier></supplier>
+	</counterpart>
+	<counterpart><name>Бизнес-Софт ООО</name><fullname>Общество с ограниченной ответственностью "Бизнес-Софт" </fullname><code>000000066</code><inn>3525112510</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ПРОТЕКТ 35 ООО</name><fullname>Общество с ограниченной ответственностью "Протект 35"</fullname><code>000000067</code><inn>3525204063</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Техмедсервис ПТФ ООО</name><fullname>Общество с ограниченной ответственностью  ПТФ "Техмедсервис"</fullname><code>000000068</code><inn>3525233850</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Альфа-Сталь ООО</name><fullname>Общество с ограниченной ответственностью  "Альфа-Сталь"</fullname><code>000000070</code><inn>3525202316</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Фирма HB-Лаб ООО</name><fullname>Общество с ограниченной ответственностью  "Фирма HB-Лаб" </fullname><code>000000071</code><inn>7701840226</inn><kpp>770201001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Сантехпоставка ООО</name><fullname>Общество с ограниченной ответственностью " Сантехпоставка "</fullname><code>000000072</code><inn>3525225296</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ИРТ-Сервис ООО</name><fullname>Общество с ограниченной ответственностью  "ИРТ-Сервис"</fullname><code>000000073</code><inn>3525247067</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Северэнергоавтоматика ООО</name><fullname>Общество с ограниченной ответственностью  "Северэнергоавтоматика"</fullname><code>000000074</code><inn>3525176024</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ПромСталь ООО</name><fullname>Общество с ограниченной ответственностью "ПромСталь"</fullname><code>000000075</code><inn>3525205613</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Стройхозторг плюс ООО</name><fullname>Общество с ограниченной ответственностью "Стройхозторг плюс"</fullname><code>000000077</code><inn>3525232737</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name> Элма ТД ООО</name><fullname>Общество с ограниченной ответственностью "ТД" Элма"</fullname><code>000000078</code><inn>7804304379</inn><kpp>780401001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Климат Контроль  ООО</name><fullname>ООО "Климат Контроль"</fullname><code>000000076</code><inn>3528151003</inn><kpp>352801001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>БИНБАНК</name><fullname>Открытое акционерное общество "БИНБАНК"</fullname><code>000000083</code><inn>7731025412</inn><kpp>775001001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Стальные технологии ООО</name><fullname>Общество с ограниченной ответственностью "Стальные технологии"</fullname><code>000000079</code><inn>7723670024</inn><kpp>772301001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>УФК по Вологодской области (Управление Федеральной службы  государственной регистрации, кадастра)</name><fullname>УФК по Вологодской области (Управление Федеральной службы  государственной регистрации, кадастра и картографии по Вологодской области, л.c 04301W00610)</fullname><code>000000080</code><inn>3525144576</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>АИСТ НТЦ ООО</name><fullname>Общество с ограниченной ответственностью  НТЦ "АИСТ"</fullname><code>000000086</code><inn>7709865938</inn><kpp>770901001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ВДПО Вологодское областное отделение</name><fullname>Вологодское областное отделение ВДПО</fullname><code>000000088</code><inn>3525010283</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Макусов Эдуард Александрович ИП</name><fullname>ИП Макусов Эдуард Александрович </fullname><code>000000082</code><inn>352514716526</inn><kpp></kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Макусов Сергей Александрович ИП</name><fullname> ИП Макусов Сергей Александрович </fullname><code>000000084</code><inn>352505303836</inn><kpp></kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Компания Продиндустрия  ООО</name><fullname>Общество с ограниченной ответственностью " Компания Продиндустрия "</fullname><code>000000085</code><inn>7839427050</inn><kpp>783901001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ГНУ ВНИИПБТ Россельхозакадемии</name><fullname>УФК по г.Москве ( ГНУ ВНИИПБТ Россельхозакадемии л/с 03731368980)</fullname><code>000000087</code><inn>7722009823</inn><kpp>772201001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Электротехснаб ЗАО</name><fullname>Закрытое акционерное общество "Электротехснаб"</fullname><code>000000089</code><inn>3525012869</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ЭлектроСпецПромАвтоматика ООО</name><fullname>Общество с ограниченной ответственностью "ЭлектроСпецПромАвтоматика" </fullname><code>000000090</code><inn>3525236146</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Вологодский учебный центр ЧОУ</name><fullname>Вологодский учебный центр ЧОУ</fullname><code>000000091</code><inn>3525137850</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Сварком ООО</name><fullname>Общество с ограниченной ответственностью "Сварком"</fullname><code>000000092</code><inn>3525093681</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Рацио ООО</name><fullname>Общество с ограниченной ответственностью "Рацио" </fullname><code>000000093</code><inn>3525101318</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Профессиональное училище № 28</name><fullname>Департамент финансов Вологодской области (ГОУ НПО "Профессиональное училище № 28" л.с. 006201651</fullname><code>000000094</code><inn>3525026702</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Кочнева Марина Алексеевна</name><fullname>Кочнева Марина Алексеевна</fullname><code>000000095</code><inn>352507211098</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Грибов Павел Игоревич</name><fullname>Грибов Павел Игоревич</fullname><code>000000100</code><inn>352516018870</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Филичева Ольга Юрьевна</name><fullname>Филичева Ольга Юрьевна</fullname><code>000000101</code><inn>352507202960</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Рысев Николай Васильевич</name><fullname>Рысев Николай Васильевич</fullname><code>000000106</code><inn>352502647980</inn><kpp></kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Желновач Ирина Николаевна</name><fullname>Желновач Ирина Николаевна</fullname><code>000000108</code><inn>352505648407</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Ока МУП </name><fullname>МУП "Ока"</fullname><code>000000096</code><inn>3525042486</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Вологодская коммерческая компания ООО</name><fullname>Общество с ограниченной ответственностью "Вологодская коммерческая компания"</fullname><code>000000098</code><inn>3525194376</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Энергоприбор ООО</name><fullname>ООО "ЭНЕРГОПРИБОР"</fullname><code>000000099</code><inn>5243013219</inn><kpp>524301001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Экспресс ООО</name><fullname>Общество с ограниченной ответственностью "Экспресс"</fullname><code>000000102</code><inn>3525251786</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>МуВОХ ООО Филиал РБЕ Северо-Запад</name><fullname>Филиал "РБЕ" Северо-Запад" ООО "МуВОХ"</fullname><code>000000104</code><inn>7727724048</inn><kpp>781443001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Промхимкомплект</name><fullname>Общество с ограниченной ответственностью "Промхимкомплект"</fullname><code>000000105</code><inn>7743749681</inn><kpp>774301001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Вологодский ЦСМ ФБУ</name><fullname>УФК по Вологодской области (ФБУ "Вологодский ЦСМ" л.сч 20306X66000)</fullname><code>000000107</code><inn>3525041411</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Техносервис ООО</name><fullname>ООО "Техносервис"</fullname><code>000000109</code><inn>3525040383</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Вологдаоблкоммунэнерго ГЭП</name><fullname>ГЭП "Вологдаоблкоммунэнерго"</fullname><code>000000115</code><inn>3525014344</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Жужгов Михаил Петрович</name><fullname>Жужгов Михаил Петрович</fullname><code>000000111</code><inn>352524527729</inn><kpp></kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Ромашов Евгений Викторович</name><fullname>Ромашов Евгений Викторович</fullname><code>000000113</code><inn>352200966600</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Леда Фирма ООО</name><fullname>ООО "Фирма Леда"</fullname><code>000000116</code><inn>3525008894</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Череповецъ ИД ООО</name><fullname>ООО "Издательский Дом "Череповецъ"</fullname><code>000000118</code><inn>3528008116</inn><kpp>352801001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Упаковочные системы</name><fullname>ЗАО "Упаковочные Системы"</fullname><code>000000120</code><inn>5012049225</inn><kpp>771701001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Коммунальные системы Инж Центр ООО</name><fullname>Общество с ограниченной ответственностью  Инженерный Центр "Коммунальные системы"</fullname><code>000000123</code><inn>3525193904</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Экспресс - сервис ООО</name><fullname>Общество с ограниченной ответственностью "Экспресс - сервис" </fullname><code>000000110</code><inn>3525164653</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Куллэ Алла Васильевна</name><fullname>Куллэ Алла Васильевна</fullname><code>000000112</code><inn>352801250790</inn><kpp></kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Управление Росприроднадзора по Вологодской области </name><fullname> УФК по Вологодской области (Управление Росприроднадзора по Вологодской области  )  л/сч.04301780330</fullname><code>000000117</code><inn>3525141575</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ИРАРМ НТЦ НОУ</name><fullname>НОУ "НТЦ" ИРАРМ"</fullname><code>000000122</code><inn>3528091474</inn><kpp>352801001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Межрайонная ИФНС России № 11  по Вологодской области</name><fullname>УФК по Вологодской области (Межрайонная ИФНС России № 11  по Вологодской области г.Вологда)</fullname><code>000000128</code><inn>3525022440</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ИТАЛСЕРВИС ООО</name><fullname> Общество с ограниченной ответственностью "ИТАЛСЕРВИС"</fullname><code>000000129</code><inn>5008055392</inn><kpp>500801001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Росалкогольрегулирование</name><fullname>Управление федерального казначейства по г.Москве (Росалкогольрегулирование л/с 04731001600)</fullname><code>000000131</code><inn>7710747640</inn><kpp>784101001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ФАРМ ЗАО</name><fullname>Закрытое акционерное общество "ФАРМ"</fullname><code>000000119</code><inn>7701019588</inn><kpp>352505002</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Ростехинвентаризация - Федеральное БТИ</name><fullname>Вологодский филиал ФГУП "Ростехинвентаризация - Федеральное БТИ"</fullname><code>000000130</code><inn>7701018922</inn><kpp>352502002</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Управление Федерального казначейства по г. Москве (Федеральная служба по интеллектуальной собственно</name><fullname>Управление Федерального казначейства по г. Москве (Федеральная служба по интеллектуальной собственности, патентам и товарным знакам)</fullname><code>000000125</code><inn>7730176088</inn><kpp>773001001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Стеклостандарт ТД ООО</name><fullname>Общество с ограниченной ответственностью  Торговый Дом "Стеклостандарт" </fullname><code>000000126</code><inn>7704521884</inn><kpp>770401001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Пилот -Энерго</name><fullname>Общество с ограниченной ответственностью "Пилот-Энерго"</fullname><code>000000132</code><inn>3525244740</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Пожсервис ООО</name><fullname>Общество с ограниченной ответственностью "Пожсервис"</fullname><code>000000133</code><inn>3525115350</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>УФК по Вологодской области (ТУ Росимущества по вологодской области)</name><fullname>УФК по Вологодской области (ТУ Росимущества по Вологодской области)</fullname><code>000000134</code><inn>3525237735</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Морозов Андрей Владимирович</name><fullname>Морозов Андрей Владимирович</fullname><code>000000138</code><inn>352507097113</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Роднина Наталия Васильевна</name><fullname>Роднина Наталия Васильевна</fullname><code>000000140</code><inn>352518973066</inn><kpp></kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Сурков Андрей Анатольевич</name><fullname>Сурков Андрей Анатольевич</fullname><code>000000148</code><inn>352519778727</inn><kpp></kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Варакин Олег Владимирович</name><fullname>Варакин Олег Владимирович</fullname><code>000000152</code><inn>352524464589</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Балашов  Борис Васильевич</name><fullname>Балашов  Борис Васильевич</fullname><code>000000153</code><inn>352507776235</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Крутов Алексей Леонидович</name><fullname>Крутов Алексей Леонидович</fullname><code>000000154</code><inn>352500067582</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Алексеев Александр Васильевич</name><fullname>Алексеев Александр Васильевич</fullname><code>000000155</code><inn>000000000000</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Алексеева Ирина Михайловна</name><fullname>Алексеева Ирина Михайловна</fullname><code>000000156</code><inn>352507191003</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Вересова Наталия Сергеевна</name><fullname>Вересова Наталия Сергеевна</fullname><code>000000157</code><inn>352507171800</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Воробьева Наталия Леонидовна</name><fullname>Воробьева Наталия Леонидовна</fullname><code>000000158</code><inn>352507268376</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Головкин Андрей  Юрьевич</name><fullname>Головкин Андрей  Юрьевич</fullname><code>000000159</code><inn>350700983807</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Ежкин  Юрий Александрович</name><fullname>Ежкин  Юрий Александрович</fullname><code>000000160</code><inn>352506539880</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Ершов Геннадий Михайлович</name><fullname>Ершов Геннадий Михайлович</fullname><code>000000161</code><inn>352516350901</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Жарков Владимир Николаевич</name><fullname>Жарков Владимир Николаевич</fullname><code>000000162</code><inn>352504467415</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Лукойл-Интер -Кард ОАО</name><fullname>Нижегородский филиал ОАО "Лукойл-Интер-Кард"</fullname><code>000000135</code><inn>3444078188</inn><kpp>526043001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Почта России ФГУП филиал УФПС Вологодской обл</name><fullname>УФПС Вологодской области-филиал ФГУП "Почта России" </fullname><code>000000165</code><inn>7724261610</inn><kpp>352502001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Центр гигиены и эпидемиологии в Вологодской области л/с ФГУЗ</name><fullname>УФК по Вологодской области (ФБУЗ "Центр гигиены и эпидемиологии в Вологодской области" л/с 20306U41860)</fullname><code>000000136</code><inn>3525147496</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Курков Николай Алексеевич ИП</name><fullname>Индивидуальный предприниматель Курков Николай Алексеевич </fullname><code>000000137</code><inn>352504152214</inn><kpp>352501001</kpp><buyer>Да</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Регистр системы сертификации персонала (РССП) ОАНО</name><fullname>Образовательная автономная некоммерческая организация "Регистр системы сертификации персонала"</fullname><code>000000139</code><inn>7706117660</inn><kpp>770601001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ЭТПО "Практик"</name><fullname>Общество с ограниченной ответственностью "ЭТПО Практик"</fullname><code>000000141</code><inn>5260284642</inn><kpp>526001001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Пусконаладка ООО</name><fullname>Общество с ограниченной ответственностью "Пусконаладка"</fullname><code>000000142</code><inn>3525020620</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Ипатов Виктор Николаевич</name><fullname>Индивидуальный предприниматель Ипатов Виктор Николаевич</fullname><code>000000143</code><inn>352500041190</inn><kpp></kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Коммуникации ООО</name><fullname>Общество с ограниченной ответственностью "Коммуникации"</fullname><code>000000144</code><inn>7805297999</inn><kpp>783901001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ЦентрИнформ ФГУП</name><fullname>Федеральное государственное унитарное предприятие "ЦентрИнформ"</fullname><code>000000145</code><inn>7841016636</inn><kpp>784101001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ЦЛАТИ по Вологодской области</name><fullname>УФК по Вологодской области (ЦЛАТИ по Вологодской области, 20306X38640)</fullname><code>000000146</code><inn>7801258484</inn><kpp>352502001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ВОМЗ ОАО</name><fullname>Открытое акционерное общество "Вологодский оптико-механический завод"</fullname><code>000000147</code><inn>3525023010</inn><kpp>353950001</kpp><buyer>Да</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Центр "ЩИТ"</name><fullname>АНО "Центр "ЩИТ"</fullname><code>000000149</code><inn>3525236393</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ЖАСКО</name><fullname>Открытое акционерное общество железнодорожная страховая компания "ЖАСКО"</fullname><code>000000150</code><inn>3525013446</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Квадро +</name><fullname>Общество с ограниченной ответственностью "Квадро +"</fullname><code>000000151</code><inn>3525165110</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Пищевые насосы ООО</name><fullname>Общество с ограниченной ответственностью "Пищевые насосы"</fullname><code>000000189</code><inn>5052013024</inn><kpp>505201001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Розбицкий Александр Антонович ИП</name><fullname>Предприниматель Розбицкий Александр Антонович</fullname><code>000000190</code><inn>352507377199</inn><kpp></kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Спецмясомолмонтаж</name><fullname>Общество с ограниченной ответственностью "Спецмясомолмонтаж"</fullname><code>000000191</code><inn>5507046611</inn><kpp>550701001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Тензор ЭО (ООО)</name><fullname>Общество с ограниченной ответственностью "Тензор ЭО"</fullname><code>000000194</code><inn>3525203493</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ОВО при УВД по г. Вологде</name><fullname>УФК по Вологодской области (ОВО  УМВД России по городу Вологде,л/с 03301749150)</fullname><code>000000195</code><inn>3525041683</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ПРОЕКТ 35</name><fullname>Общество с ограниченной ответственностью "ПРОЕКТ 35"</fullname><code>000000196</code><inn>3525244500</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Пневмакс ООО</name><fullname>Общество с ограниченной ответственностью "Пневмакс" Химкинское отделение № 7825 г.Химки</fullname><code>000000197</code><inn>7707236370</inn><kpp>504701001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Зязина Надежда Терентьевна</name><fullname>Зязина Надежда Терентьевна</fullname><code>000000163</code><inn>352507263152</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Иванов Рудольф Васильевич</name><fullname>Иванов Рудольф Васильевич</fullname><code>000000164</code><inn>352514615983</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Кириллова Лариса Васильевна</name><fullname>Кириллова Лариса Васильевна</fullname><code>000000166</code><inn>352513518137</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Кочуров Лев Валентинович</name><fullname>Кочуров Лев Валентинович</fullname><code>000000167</code><inn>352520851065</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Кузьменко Анатолий Иванович</name><fullname>Кузьменко Анатолий Иванович</fullname><code>000000168</code><inn>352507181527</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Кузьмина Елена Владимировна</name><fullname>Кузьмина Елена Владимировна</fullname><code>000000169</code><inn>351700301206</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Кузьминский Владислав Николаевич</name><fullname>Кузьминский Владислав Николаевич</fullname><code>000000170</code><inn>352507089338</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Кучеров  Владимир Борисович</name><fullname>Кучеров  Владимир Борисович</fullname><code>000000171</code><inn>352507181453</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Лазарева Людмила Васильевна</name><fullname>Лазарева Людмила Васильевна</fullname><code>000000172</code><inn>352517553407</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Лохмоткина Елена Юрьевна</name><fullname>Лохмоткина Елена Юрьевна</fullname><code>000000173</code><inn>352507266756</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Маслов Олег Александрович</name><fullname>Маслов Олег Александрович</fullname><code>000000174</code><inn>352502430297</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Мишарина Наталья Владимировна</name><fullname>Мишарина Наталья Владимировна</fullname><code>000000175</code><inn>350700091571</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Межуев Василий Викторович</name><fullname>Межуев Василий Викторович</fullname><code>000000176</code><inn>352530380030</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Новожилова Юлия Юрьевна</name><fullname>Новожилова Юлия Юрьевна</fullname><code>000000177</code><inn>352524325828</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Паламарчук Валентин Владимирович</name><fullname>Паламарчук Валентин Владимирович</fullname><code>000000178</code><inn>352507791709</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Панева Ирина Леонидовна</name><fullname>Панева Ирина Леонидовна</fullname><code>000000179</code><inn>352505120568</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Пачина Анжелика Викторовна</name><fullname>Пачина Анжелика Викторовна</fullname><code>000000180</code><inn>352518545286</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Пробкина Нина Васильевна</name><fullname>Пробкина Нина Васильевна</fullname><code>000000181</code><inn>352507199429</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Протопопов Денис Васильевич</name><fullname>Протопопов Денис Васильевич</fullname><code>000000182</code><inn>352509415386</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Рогозина Любовь Николаевна</name><fullname>Рогозина Любовь Николаевна</fullname><code>000000183</code><inn>352506488756</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Смирнова Татьяна Альбертовна</name><fullname>Смирнова Татьяна Альбертовна</fullname><code>000000184</code><inn>352507209557</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Суворова Валентина Геннадьевна</name><fullname>Суворова Валентина Геннадьевна</fullname><code>000000185</code><inn>352519761314</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Турушин Валерий Александрович</name><fullname>Турушин Валерий Александрович</fullname><code>000000186</code><inn>352519996115</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Тисленок Виктория Михайловна</name><fullname>Тисленок Виктория Михайловна</fullname><code>000000187</code><inn>352507198471</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Федорчук Сергей Николаевич</name><fullname>Федорчук Сергей Николаевич</fullname><code>000000188</code><inn>352500214678</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>ЭКОПРОМ-СПЕЦТРАНС 1</name><fullname>Общество с ограниченной ответственностью ТК "ЭКОПРОМ-СПЕЦТРАНС 1"</fullname><code>000000198</code><inn>3525237485</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Вологодская городская поликлиника N1</name><fullname>БУЗ ВО  "Вологодская городская поликлиника № 1</fullname><code>000000200</code><inn>3525218193</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Назаров Андрей Алексеевич</name><fullname>Назаров Андрей Алексеевич</fullname><code>000000201</code><inn>352521209929</inn><kpp></kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>СМиТ</name><fullname>Общество с ограниченной ответственностью "СМиТ"</fullname><code>000000202</code><inn>3525120720</inn><kpp>352501001</kpp><buyer>Да</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Чистый дом ООО</name><fullname>Общество с ограниченной ответственностью "Чистый дом"</fullname><code>000000203</code><inn>3525245856</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Воронеж-Аква ООО</name><fullname>Общество с ограниченной ответственностью "Воронеж-Аква"</fullname><code>000000205</code><inn>3662003954</inn><kpp>366201001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Дамир ООО</name><fullname>Общество с ограниченной ответственностью "Дамир"</fullname><code>000000206</code><inn>3525120180</inn><kpp>352501001</kpp><buyer>Да</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Спиридонова Евгения Анатольевна</name><fullname>Арендодатель Спиридонова Евгения Анатольевна</fullname><code>000000207</code><inn>352526531199</inn><kpp></kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Вологодская сбытовая компания</name><fullname>Вологодский филиал  ОАО "Вологодская сбытовая компания"</fullname><code>000000208</code><inn>3525154831</inn><kpp>091701001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>УВД г.Вологды</name><fullname>УФК по Вологодской области (УМВД России по  г.Вологда)</fullname><code>000000204</code><inn>3525041718</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Дмитриев И. В. ИП</name><fullname>ИП Дмитриев Игорь Владимирович</fullname><code>000000209</code><inn>352500327583</inn><kpp>352501001</kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Лядова И.Л. ПБОЮЛ</name><fullname>ПБОЮЛ Лядова Ирина Леонидовна</fullname><code>000000210</code><inn>352502217307</inn><kpp></kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>ИТ-Сервис ООО</name><fullname>Общество с ограниченной ответственностью "ИТ-Сервис"</fullname><code>000000211</code><inn>3525256368</inn><kpp>352501001</kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Лакомка ООО</name><fullname>Общество с ограниченной ответственностью  "Лакомка"</fullname><code>000000212</code><inn>3525235030</inn><kpp>352501001</kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Сладкий дом ООО</name><fullname>Общество с ограниченной ответственностью "Сладкий дом"</fullname><code>000000214</code><inn>3525233970</inn><kpp>352501001</kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Золотая мануфактура ООО</name><fullname>Общество с ограниченной ответственностью "Золотая мануфактура"</fullname><code>000000215</code><inn>3444136778</inn><kpp>352545001</kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>А-Стиль ООО</name><fullname>Общество с ограниченной ответственностью "А-Стиль"</fullname><code>000000216</code><inn>3662083149</inn><kpp>366201001</kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Вагрон-Маркет ООО</name><fullname>Общество с ограниченной ответственностью "Вагрон-Маркет"</fullname><code>000000217</code><inn>3525042535</inn><kpp>352501001</kpp><buyer>Да</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>НК Инвест ООО</name><fullname>Общество с ограниченной ответственностью "НК Инвест"</fullname><code>000000218</code><inn>7723778229</inn><kpp>352501001</kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Антикризисное бюро ООО</name><fullname>Общество с ограниченной ответственностью "Антикризисное бюро"</fullname><code>000000219</code><inn>3525212441</inn><kpp>352501001</kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Техносервис ЗАО</name><fullname>Закрытое акционерное общество "Техносервис"</fullname><code>000000220</code><inn>7705906421</inn><kpp>770901001</kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Огарева Юлия Валерьевна</name><fullname>Огарева Юлия Валерьевна</fullname><code>000000213</code><inn>352527735117</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Феникс  АНО СК </name><fullname>Феникс АНО СК</fullname><code>000000221</code><inn>3525171210</inn><kpp>352501001</kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>СеверТрансТелеКом ЗАО</name><fullname>Закрытое акционерное общество  "СеверТрансТелеКом"</fullname><code>000000222</code><inn>7604047808</inn><kpp>760401001</kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Объединенная табачная компания ООО</name><fullname>Общество с ограниченной ответственностью  "Объединенная табачная компания"</fullname><code>000000223</code><inn>6162047437</inn><kpp>997350001</kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Францух А С</name><fullname>Францух Анна Сергеевна</fullname><code>000000224</code><inn>352521964304</inn><kpp></kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Региональный поисковый центр ,ООО</name><fullname>Региональный поисковый центр ,ООО</fullname><code>000000023</code><inn>7813181099</inn><kpp>781301001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>РОКС-Транс ООО</name><fullname>Общество с ограниченной  ответственностью "РОКС-Транс"</fullname><code>000000693</code><inn>7724813405</inn><kpp>772401001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Астек-Транс ООО</name><fullname>ООО "Астек- Транс"</fullname><code>000000694</code><inn>7703652228</inn><kpp>770301001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>УФК по Вологодской области (Администрация города Вологды)</name><fullname>УФК по Вологодской области (Администрация города Вологды)</fullname><code>000000695</code><inn>3525064930</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Сальве+ ООО</name><fullname>Общество с ограниченной ответственностью "Сальве+"</fullname><code>000000696</code><inn>3525152577</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Григорьев Сергей Владимирович</name><fullname>Григорьев Сергей Владимирович</fullname><code>000000698</code><inn>352403369010</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>ПроектМонтаж ООО</name><fullname>Общество с ограниченной ответственностью "ПроектМонтаж"</fullname><code>000000697</code><inn>3525178617</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Интрасерв ООО</name><fullname>ООО "Интрасерв"</fullname><code>000000427</code><inn>7838449936</inn><kpp>783801001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Владипор НТЦ ЗАО</name><fullname>ЗАО НТЦ "Владипор"</fullname><code>000000428</code><inn>3302017503</inn><kpp>330201001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Прима-принт ООО</name><fullname>ООО "Прима-принт"</fullname><code>000000429</code><inn>7719684289</inn><kpp>771901001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>КАЛВАТИС ООО</name><fullname>ООО "КАЛВАТИС"</fullname><code>000000432</code><inn>7736602977</inn><kpp>773601001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Васильева Юлия Александровна</name><fullname>Васильева Юлия Александровна</fullname><code>000000430</code><inn>350700043031</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Советова Людмила Александровна</name><fullname>Советова Людмила Александровна</fullname><code>000000431</code><inn>352519551170</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Спецодеждаоптторг ООО</name><fullname>ООО "Спецодеждаоптторг"</fullname><code>000000433</code><inn>3525226099</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ЯрВторТранс</name><fullname>ООО "ЯрВторТранс"</fullname><code>000000434</code><inn>7621008534</inn><kpp>762101001</kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Железнякова Мария Вячеславовна ИП</name><fullname>ИП Железнякова Мария Вячеславовна </fullname><code>000000435</code><inn>352501360801</inn><kpp></kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Сервисная служба ООО</name><fullname>Общество с ограниченной ответственностью "Сервисная служба"</fullname><code>000000436</code><inn>7716650637</inn><kpp>770901001</kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Ярушкина Инна Викторовна</name><fullname>Ярушкина Инна Викторовна</fullname><code>000000437</code><inn>352001348740</inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Шипицина Олеся Венидиктовна</name><fullname>Шипицина Олеся Венидиктовна</fullname><code>000000438</code><inn>351300460900</inn><kpp></kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Снабсервис ПКП ООО</name><fullname>ООО ПКП "Снабсервис"</fullname><code>000000439</code><inn>3525146277</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Старостин Л.А.ИП</name><fullname>Предприниматель Старостин Леонид.Александрович</fullname><code>000000443</code><inn>352506330367</inn><kpp></kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Чагодощенский стеклозавод и К ООО</name><fullname>Общество с ограниченной ответственностью "Чагодощенский стеклозавод и  К"</fullname><code>000000440</code><inn>3522002573</inn><kpp>352201001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>КРИН ТД ООО</name><fullname>ООО "ТД  КРИН"</fullname><code>000000441</code><inn>4348031968</inn><kpp>434501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Приозерье ООО</name><fullname>Общество с ограниченной ответственностью "Приозерье"</fullname><code>000000442</code><inn>3507307556</inn><kpp>350701001</kpp><buyer>Да</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Охрана МВД Филиал ФГУП </name><fullname>Филиал ФГУП "Охрана" МВД России по Вологодской области</fullname><code>000000226</code><inn>7719555477</inn><kpp>352502001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Тензор Компания ООО</name><fullname>ООО "Компания "Тензор"</fullname><code>000000227</code><inn>7605016030</inn><kpp>352545001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ТехноАрт ООО</name><fullname>ООО "ТехноАрт"</fullname><code>000000228</code><inn>3525080869</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Техносорб-Производство ООО</name><fullname>ООО "Техносорб-Производство"</fullname><code>000000229</code><inn>5908041177</inn><kpp>590801001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Акватория ООО</name><fullname>Общество с ограниченной ответственностью "Акватория" (ООО "Акватория") </fullname><code>000000230</code><inn>3525168619</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Вологдавтормет ЗАО</name><fullname>ЗАО "Вологдавтормет"</fullname><code>000000231</code><inn>3525005759</inn><kpp>352501001</kpp><buyer>Да</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Старостин А.Г ИП</name><fullname>Индивидуальный предприниматель Старостин Алексей Геннадьевич</fullname><code>000000232</code><inn>762100043993</inn><kpp></kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Ниткин М.В ИП</name><fullname>"Индивидуальный предприниматель Ниткин Михаил Владимирович"</fullname><code>000000233</code><inn>352518324689</inn><kpp></kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>АВТООПТ ООО</name><fullname>ООО "АВТООПТ"</fullname><code>000000234</code><inn>3528086594</inn><kpp>352801001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Росгосстрах ООО</name><fullname>ООО "Росгосстрах" </fullname><code>000000235</code><inn>5027089703</inn><kpp>502743001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Автотрейдинг Вологда</name><fullname>ООО "Автотрейдинг Вологда"</fullname><code>000000236</code><inn>3525162712</inn><kpp>352501001</kpp><buyer>Да</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ЭКОПРОМ-СПЕЦТРАНС 1</name><fullname>ООО ТК "ЭКОПРОМ-СПЕЦТРАНС 1"</fullname><code>000000237</code><inn>3525237485</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Деловые линии</name><fullname>ООО "Деловые линии"</fullname><code>000000238</code><inn>7826156685</inn><kpp>783801001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Раско-прибор ООО</name><fullname>Общество с ограниченной ответственностью "Раско-прибор" (ООО "Раско-прибор")</fullname><code>000000239</code><inn>7709701263</inn><kpp>770901001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Мон-Блан  ООО</name><fullname>ООО "Мон-Блан"</fullname><code>000000240</code><inn>7702527256</inn><kpp>770201001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Вторцветмет ВП ЗАО</name><fullname>ЗАО ВП "Вторцветмет"</fullname><code>000000241</code><inn>3525072970</inn><kpp>352501001</kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Управление ФС по надзору в сф.защиты прав потреб-й и благополучия человека</name><fullname>Управление ФС по надзору в сф.защиты прав потреб-й и благополучия человека</fullname><code>000000244</code><inn></inn><kpp></kpp><buyer>Нет</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>ВоГТУ</name><fullname>УФК по Вологодской области (ВоГТУ ,л/с 03301А38060</fullname><code>000000242</code><inn>3525027110</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>УГАДН по Вологодской области</name><fullname>УФК по Вологодской области (УГАДН по Вологодской области л/с 04301114620)</fullname><code>000000243</code><inn>3525020041</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Регион-инструмент ООО</name><fullname>ООО "Регион-инструмент"</fullname><code>000000245</code><inn>3525192227</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Первая экспедиционная компания ООО</name><fullname>ООО" ПЭК СЕВЕРО-ЗАПАД"</fullname><code>000000246</code><inn>7709826657</inn><kpp>770901001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Красные кеды ООО</name><fullname>ООО "Красные кеды" </fullname><code>000000383</code><inn>7718676285</inn><kpp>771801001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Триада ООО</name><fullname>ООО "Триада"</fullname><code>000000384</code><inn>7842401334</inn><kpp>784201001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ОАО "Гостиница "Москвич"</name><fullname>ОАО "Гостиница "Москвич"</fullname><code>000000386</code><inn>7723117130</inn><kpp>772301001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Межрайонная ИФНС России №8 по Ленинградской области</name><fullname>УФК по Ленинградской области (Межрайонная ИФНС России №8 по Ленинградской области)</fullname><code>000000385</code><inn>4725000012</inn><kpp>781901001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Интертрейд ООО</name><fullname>ООО "Интертрейд"</fullname><code>000000387</code><inn>3207008876</inn><kpp>320701001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Таможенные консультации ООО</name><fullname>ООО "Таможенные Консультации"</fullname><code>000000388</code><inn>3250507617</inn><kpp>325001001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Ротаметр ООО </name><fullname>ООО "Ротаметр"</fullname><code>000000389</code><inn>5243024669</inn><kpp>524301001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Измерительная и регулирующая техника-Северо-Запад ООО</name><fullname>ООО "Измерительная и регулирующая техника-Северо-Запад "</fullname><code>000000390</code><inn>7801508381</inn><kpp>780101001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Промсоль Северо-Запад ООО</name><fullname>ООО "Промсоль Северо-Запад"</fullname><code>000000391</code><inn>3525225970</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Владимирский завод "ЭТАЛОН" ООО</name><fullname>ООО "Владимирский завод "Эталон"</fullname><code>000000392</code><inn>3327840405</inn><kpp>332701001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>"Стиф" ЗАО</name><fullname>"Стиф" ЗАО</fullname><code>000000033</code><inn>7810211073</inn><kpp>783601001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Фирма, ООО</name><fullname>Фирма, ООО</fullname><code>000000034</code><inn>7710637358</inn><kpp>771001001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ГАУ "Управление государственной экспертизы Ленинградской области"</name><fullname>ГАУ "Управление государственной экспертизы Ленинградской области"</fullname><code>000000035</code><inn>4700000395</inn><kpp>470001001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ФГУ "Балтводхоз"</name><fullname>ФГУ "Балтводхоз"</fullname><code>000000036</code><inn>7801141334</inn><kpp>780101001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ООО "Ингосстрах"</name><fullname>ООО "Ингосстрах"</fullname><code>000000037</code><inn>7705042179</inn><kpp>770501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Потапова Н.С ИП</name><fullname>Индивидуальный предприниматель Потапова Наталья Сергеевна (ИП Потапова Н.С.)</fullname><code>000000507</code><inn>330405145900</inn><kpp>330401001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Подшипник ТСК</name><fullname>Общество с ограниченной ответственностью "Подшипник ТСК"</fullname><code>000000508</code><inn>3525118061</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>ОАО "Вологодский ликероводчный завод" Вагрон"</name><fullname>ОАО "Вологодский ликероводчный завод" Вагрон"</fullname><code>000000047</code><inn>3525174651</inn><kpp>352501001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+	<counterpart><name>Транс-Ресурс-В ООО</name><fullname>Общество с ограниченной ответственностью "Транс-Ресурс-В " (ООО "Транс-Ресурс-В ")</fullname><code>000000713</code><inn>3525282946</inn><kpp>352501001</kpp><buyer>Да</buyer><supplier>Нет</supplier>
+	</counterpart>
+	<counterpart><name>Ленмелиоводхоз, Управление ФГУ</name><fullname>ФГУ Управление "Ленмелиоводхоз"</fullname><code>000000032</code><inn>4703014156</inn><kpp>781401001</kpp><buyer>Нет</buyer><supplier>Да</supplier>
+	</counterpart>
+</export>

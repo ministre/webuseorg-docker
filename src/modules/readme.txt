@@ -1,0 +1,1 @@
+В эту папку кладутся $content_page.php - постобработчики шаблонов в /templates/$themes/

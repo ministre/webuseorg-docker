@@ -1,0 +1,7 @@
+  <li><a href=?index.php>Главная</a></li>  
+  <li><a href=?content_page=eq_list>Профиль</a></li>
+  <li><a href=?content_page=user_list>Сводка по пользователям</a></li>
+  <li><a href=?content_page=contract_control>Контроль договоров</a></li>
+  <li><a href=?content_page=maps>Планы помещений</a></li>
+  <li><a href=?content_page=tasks>Задачи</a></li>  
+  <li><a href=?content_page=reports>Отчеты</a></li>

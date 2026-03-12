@@ -1,0 +1,7 @@
+	<li><a href=?content_page=config>Настройки</a></li>
+	<li><a href=?content_page=delete>Удаление обьектов</a></li>
+	<li><a href=?content_page=export>Выгрузка XML</a></li>	
+        <li><a href=?content_page=import_knt>Загрузка контрагентов из XML</a></li>	
+        <li><a href=?content_page=import_empl>Загрузка учеток из XML</a></li>	
+        <li><br></li>
+        <li><a href=?content_page=ping>Проверка доступности</a></li>	
