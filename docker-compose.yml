@@ -6,9 +6,11 @@ services:
     container_name: webuseorg-db
     environment:
       MYSQL_DATABASE: ${MYSQL_DATABASE:-webuse}
-      MYSQL_USER: ${MYSQL_USER:-root}
+      MYSQL_USER: ${MYSQL_USER:-webuse}
       MYSQL_PASSWORD: ${MYSQL_PASSWORD:-webuse}
       MYSQL_ROOT_PASSWORD: ${MYSQL_PASSWORD:-webuse}
+    expose:
+      - "3306"
     volumes:
       - ./data/mysql:/var/lib/mysql
     restart: unless-stopped
@@ -18,7 +20,7 @@ services:
     container_name: webuseorg
     environment:
       MYSQL_DATABASE: ${MYSQL_DATABASE:-webuse}
-      MYSQL_USER: ${MYSQL_USER:-root}
+      MYSQL_USER: ${MYSQL_USER:-webuse}
       MYSQL_PASSWORD: ${MYSQL_PASSWORD:-webuse}
     ports:
       - "8080:80"
